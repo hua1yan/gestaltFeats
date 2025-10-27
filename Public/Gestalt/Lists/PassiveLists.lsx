@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Magic Capabilities" />
+                    <attribute id="Passives" type="LSString" value="Mundane1,Mundane2,Mundane3,FullCaster1,FullCaster2,FullCaster3,HalfCaster1,HalfCaster2,HalfCaster3,ThirdCaster1,ThirdCaster2,ThirdCaster3,WarlockCaster1,WarlockCaster2,WarlockCaster3" />
+                    <attribute id="UUID" type="guid" value="9d58bef5-e9fd-4ddb-8f44-7b7d67c8ead2" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Magic Traditions" />
+                    <attribute id="Passives" type="LSString" value="Content1,Content2,Content3,ArcaneTradition,TonalTradition,DivineTradition,PrimalTradition,OccultTradition,SacredOath,HuntersGift,SecondaryStudies" />
+                    <attribute id="UUID" type="guid" value="f767cb70-483d-47d0-8958-d70bc154b033" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Fighting Styles" />
+                    <attribute id="Passives" type="LSString" value="Arbitrary1,Arbitrary2,Arbitrary3,FightingStyle_Archery,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Protection,FightingStyle_TwoWeaponFighting" />
+                    <attribute id="UUID" type="guid" value="d0bcab30-791a-43fe-9af7-1ab7da51a612" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Primal Instinct" />
+                    <attribute id="Passives" type="LSString" value="Civilized,Berserker,Wildheart,WildMagic,Giant" />
+                    <attribute id="UUID" type="guid" value="5eb3a4fb-c8df-4e04-bcd0-cb41371abdcf" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Wildheart" />
+                    <attribute id="Passives" type="LSString" value="Serenity,TotemSpirit_Bear,TotemSpirit_Eagle,TotemSpirit_Elk,TotemSpirit_Tiger,TotemSpirit_Wolf" />
+                    <attribute id="UUID" type="guid" value="f9a54617-40d2-488d-aae1-8027c2f86342" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Animal Aspects" />
+                    <attribute id="Passives" type="LSString" value="Anthropocentric1,Anthropocentric2,AspectOfTheBeast_Bear,AspectOfTheBeast_Chimpanzee,AspectOfTheBeast_Crocodile,AspectOfTheBeast_Eagle,AspectOfTheBeast_Elk,AspectOfTheBeast_HoneyBadger,AspectOfTheBeast_Stallion,AspectOfTheBeast_Tiger,AspectOfTheBeast_Wolf,AspectOfTheBeast_Wolverine" />
+                    <attribute id="UUID" type="guid" value="f79c3b42-d723-4b09-a6e4-df6c40b32dca" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Artistic Interest" />
+                    <attribute id="Passives" type="LSString" value="Amateur,Lore,Valour,Swords,Glamour" />
+                    <attribute id="UUID" type="guid" value="06e48e25-9066-4a36-b929-835b330c2afb" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Sacred Font" />
+                    <attribute id="Passives" type="LSString" value="Temporal,Life,Light,Trickery,Knowledge,Nature,Tempest,War,Death" />
+                    <attribute id="UUID" type="guid" value="7e03b686-c99a-4a42-8181-ff0d3f1ced45" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Divine Calling" />
+                    <attribute id="Passives" type="LSString" value="Laity,Bahamut,CorellonLarethian,Eilistraee,GarlGlittergold,Gruumsh,Helm,Ilmater,Kelemvor,Laduguer,Lathander,Lolth,Mielikki,Moradin,Mystra,Oghma,Selune,Talos,Tempus,Tiamat,Tymora,Tyr,Vlaakith,Yondalla" />
+                    <attribute id="UUID" type="guid" value="4d3c4879-cc70-4826-8626-4158a5d08bbe" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Nature's Bond" />
+                    <attribute id="Passives" type="LSString" value="CityFolk,Land,Moon,Spores,Stars" />
+                    <attribute id="UUID" type="guid" value="81ae4c5d-8555-4c65-af6d-9c595029e8a4" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Combat Tactics" />
+                    <attribute id="Passives" type="LSString" value="Confident,CombatManoeuvres,CombatMagic,BruteForce,ArcaneArchery" />
+                    <attribute id="UUID" type="guid" value="7567f47d-7891-4965-af38-878ed4e47e1c" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Combat Manoeuvres" />
+                    <attribute id="Passives" type="LSString" value="OrdinaryWarfare1,OrdinaryWarfare2,OrdinaryWarfare3,OrdinaryWarfare4,OrdinaryWarfare5,OrdinaryWarfare6,OrdinaryWarfare7,CommanderStrike_Maneuver,DisarmingAttack,DistractingStrike,EvasiveFootwork,FeintingAttack,GoadingAttack,ManeuveringAttack,MenacingAttack,PrecisionAttack,PushingAttack,Rally,Riposte,SweepingAttack,TripAttack" />
+                    <attribute id="UUID" type="guid" value="5d6431bd-1042-47fc-a252-25bb3236750c" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Introspection" />
+                    <attribute id="Passives" type="LSString" value="SelfIndulgence,MartialArts,Elements,ShadowMonk,Intoxication" />
+                    <attribute id="UUID" type="guid" value="c86c8a8a-d389-4cca-9b64-f0523f5b14cc" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Cause" />
+                    <attribute id="Passives" type="LSString" value="Carefree,LifePreservation,Justice,Punishment,Civilisation" />
+                    <attribute id="UUID" type="guid" value="d7ce6eb8-4e9c-4a4f-8499-208a3f5491e2" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Hunting Strategy" />
+                    <attribute id="Passives" type="LSString" value="Sedentary,Tracking,BeastAid,Stalking,SwarmCalling" />
+                    <attribute id="UUID" type="guid" value="c82aadb3-0172-4998-a9a1-a0c12c24f1d1" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Favoured Enemy" />
+                    <attribute id="Passives" type="LSString" value="NoPreference1,NoPreference2,NoPreference3,FavoredEnemy_BountyHunter,FavoredEnemy_KeeperOfTheVeil,FavoredEnemy_MageBreaker,FavoredEnemy_RangerKnight,FavoredEnemy_SanctifiedStalker" />
+                    <attribute id="UUID" type="guid" value="839e0c16-5bd3-4664-b7a5-3fd3086f7a09" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Natural Explorer" />
+                    <attribute id="Passives" type="LSString" value="Homebody1,Homebody2,Homebody3,NaturalExplorer_BeastTamer,NaturalExplorer_UrbanTracker,NaturalExplorer_WastelandWander_Cold,NaturalExplorer_WastelandWander_Fire,NaturalExplorer_WastelandWander_Poison" />
+                    <attribute id="UUID" type="guid" value="63201175-e255-4abd-8b99-d75fc46e3e5b" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Hunter's Prey" />
+                    <attribute id="Passives" type="LSString" value="Unfocused,ColossusSlayer,GiantKiller,HordeBreaker" />
+                    <attribute id="UUID" type="guid" value="a9468807-e5f1-4454-8c0d-4a2464bb9781" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Hunter's Tactics" />
+                    <attribute id="Passives" type="LSString" value="ConventionalTactics,EscapeTheHorde,SteelWill,MultiattackDefense" />
+                    <attribute id="UUID" type="guid" value="3e7a8954-4e83-4380-a5e9-b586f8a2faca" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Swarm Choice" />
+                    <attribute id="Passives" type="LSString" value="Entomophobia,Swarmkeeper_Bee,Swarmkeeper_Jellyfish,Swarmkeeper_Moth" />
+                    <attribute id="UUID" type="guid" value="3e7a8954-4e83-4380-a5e9-b586f8a2fabb" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Criminal Background" />
+                    <attribute id="Passives" type="LSString" value="LawAbiding,MagicalTricks,Thievery,Hitman,BladeTricks" />
+                    <attribute id="UUID" type="guid" value="99f34290-0023-42a9-8389-ca7426ae5e91" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Supernatural Lineage" />
+                    <attribute id="Passives" type="LSString" value="OrdinaryLineage,WildMagicSorcerer,DraconicBloodline,StormSorcery,ShadowMagic" />
+                    <attribute id="UUID" type="guid" value="1b97d7a2-fcd9-4592-a250-e9370b2b0ea6" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Metamagic Manipulation" />
+                    <attribute id="Passives" type="LSString" value="ConventionalMagic1,ConventionalMagic2,ConventionalMagic3,ConventionalMagic4,Metamagic_Careful,Metamagic_Distant,Metamagic_Extended,Metamagic_Heightened,Metamagic_Quickened,Metamagic_Subtle,Metamagic_Twinned" />
+                    <attribute id="UUID" type="guid" value="2873f647-96aa-4447-9da7-b90dea1e3250" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Draconic Ancestry" />
+                    <attribute id="Passives" type="LSString" value="NonDraconic,DraconicAncestry_Red,DraconicAncestry_Black,DraconicAncestry_Blue,DraconicAncestry_White,DraconicAncestry_Green,DraconicAncestry_Gold,DraconicAncestry_Silver,DraconicAncestry_Bronze,DraconicAncestry_Copper,DraconicAncestry_Brass" />
+                    <attribute id="UUID" type="guid" value="afe0e2e7-d908-441a-9071-942290f94639" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Otherworldly Pact" />
+                    <attribute id="Passives" type="LSString" value="Pactless,Fiend,GreatOldOne,Archfey,Hexblade" />
+                    <attribute id="UUID" type="guid" value="385029bf-d1fc-459b-a258-b27dfdf661b7" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Eldritch Invocation" />
+                    <attribute id="Passives" type="LSString" value="Rejection1,Rejection2,Rejection3,Rejection4,Rejection5,Rejection6,Lifedrinker,MinionsOfChaos,OtherworldlyLeap,WhispersOfTheGrave,BookOfAncientSecrets,DreadfulWord,SculptorOfFlesh,MireTheMind,SignOfIllOmen,AgonizingBlast,ArmorOfShadows,BeastSpeech,BeguilingInfluence,DevilsSight,FiendishVigor,MaskOfManyFaces,OneWithShadows,RepellingBlast,ThiefOfFiveFates" />
+                    <attribute id="UUID" type="guid" value="c27df333-5a02-4ad3-b7e1-587eec1a9c49" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Pact Boon" />
+                    <attribute id="Passives" type="LSString" value="NoBoon,PactOfTheChain,PactOfTheBlade_Hex,PactOfTheTome" />
+                    <attribute id="UUID" type="guid" value="9b04b26c-23b7-4c58-9a46-ff2e687f2224" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Mystic Arcanum" />
+                    <attribute id="Passives" type="LSString" value="NoArcanum,CircleOfDeath,ArcaneGate,Eyebite,FleshToStone,CreateUndead" />
+                    <attribute id="UUID" type="guid" value="d51bc582-230a-4fca-828b-a94ce2d1f088" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Specialization School" />
+                    <attribute id="Passives" type="LSString" value="NonAcademic,Abjuration,Conjuration,Divination,Enchantment,Evocation,Illusion,Necromancy,Transmutation,Bladesong" />
+                    <attribute id="UUID" type="guid" value="c4fc0cb9-87d0-4dd0-ba6b-47584ca9abb4" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Strength Boost" />
+                    <attribute id="Passives" type="LSString" value="DoomBoost" />
+                    <attribute id="UUID" type="guid" value="66f81300-7ae2-419d-9993-f078920dcb51" />
+                </node>
+        <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Skill Expertise" />
+                    <attribute id="Passives" type="LSString" value="DoomExp"/>
+                    <attribute id="UUID" type="guid" value="3ac2ae07-c427-4500-b407-7a55b91890c4" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

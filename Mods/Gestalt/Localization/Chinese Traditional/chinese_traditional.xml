@@ -1,0 +1,855 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hf3bc8540gf0a7g5ef0gd5f2g4eb53d1743fa" version="1">Surge Of Inspiration</content>
+  <content contentuid="h134af21fg450bg52cfg963bg9c4288e52ee7" version="1">Flash of Omniscience</content>
+  <content contentuid="h25173714gaba3g0bcbg3e49g40079d619dcf" version="1">Lord Ao has taken a personal interest in your cause and bestowed a piece of His transcendental knowledge upon you.</content>
+  <content contentuid="ha1b5a7d7gf4cdg38a0gc30dg425208bd3afb" version="1">Adventuring with companions grants you renewed insight on your own abilities.</content>
+  <content contentuid="hab20dd24g315cgc4d3g8999g8438facc1121" version="1">Blessings of Polymath</content>
+  <content contentuid="h88ce3fa4gf3a4g8ef6g4b31g3b3c2d04a25e" version="2">You've come to understand the interconnectivity of everything. Mastery of one craft leads to mastery of others.</content>
+  <content contentuid="hab60b71ag4aa6g54f4gf07dgc3e50960dd18" version="1">Glimpse of Fate</content>
+  <content contentuid="h76421216g5db0g8516gc92bg80ac4b61da10" version="2">Constant struggles on the edge between life and death have aligned your soul a little bit closer to the Threads of Fate that bind everything in the multiverse.</content>
+  <content contentuid="h44c7e93cgc174g281ag9fc6gf0e84c1c0e08" version="1">時間收束</content>
+  <content contentuid="hc8ab21aeg94bdgdca1gd911gc986138ea751" version="3">你將每一條平行的時間線的自己收束於一身，把所有潛能轉化為了能夠改變現實的力量。</content>
+  <content contentuid="hfe882af5g5280g0a1fg4d1ag6295a7dfc498" version="2">滿環施法者一</content>
+  <content contentuid="hc6817dc1gdceeg8196g292dge47e482f5865" version="2">你獲得相當於你角色等級滿環施法者（如法師、牧師）的每日法術位。可疊加。</content>
+  <content contentuid="h7dedd643g3db1gcd6ag8f44g13b9191f245f" version="1">滿環施法者二</content>
+  <content contentuid="h29e14f97gaef9ga049g977fgdf1b50af2f79" version="2">你獲得相當於你角色等級滿環施法者（如法師、牧師）的每日法術位。可疊加。</content>
+  <content contentuid="hc9eca104g3f90g3014g4eb6ge2c1e9ce3664" version="1">滿環施法者三</content>
+  <content contentuid="h8201dacfg1410g4db8g9f24g95d1bdcb7b25" version="1">半環施法者三</content>
+  <content contentuid="h7c55064fg4aacg4475g9a02g0f17920430db" version="1">三分之一施法者三</content>
+  <content contentuid="h29d5bdc8g5c03g4c24g9153ga94c786853b1" version="1">契術士施法者三</content>
+  <content contentuid="h8b2d6677gdc24g4096g942cg31356733cced" version="1">平凡存在三</content>
+  <content contentuid="h043047f6g6315g2e2fg624cg3e30be4b0b80" version="1">半環施法者一</content>
+  <content contentuid="hf99d087ag0115g0674g1529g95a1f0071db3" version="1">你獲得相當於你角色等級半環施法者（如聖武士、遊俠）的每日法術位。可疊加。</content>
+  <content contentuid="h87da7c69g2c9ag54adg9baeg41f004f64274" version="1">三分之一施法者一</content>
+  <content contentuid="h0f63a5f9g73c3g5768gcbb3g38719f863a6c" version="1">你獲得相當於你角色等級三分之一環施法者（如奧法騎士、奧秘詭術師）的每日法術位。可疊加。</content>
+  <content contentuid="h5bfd57acg1239gd22cg5ecfga2d61c4e4494" version="1">半環施法者二</content>
+  <content contentuid="hfc55ec17gf1a2g9177gc9fdg122e1ffe09d2" version="1">你獲得相當於你角色等級半環施法者（如聖武士、遊俠）的每日法術位。可疊加。</content>
+  <content contentuid="h06316f24gc87eg923dgeb04g6a575bf3b264" version="1">契術士施法者一</content>
+  <content contentuid="hb7eae01egd047ge2bagdf8dgaafe2a0e6bbd" version="1">你獲得相當於你角色等級契術士的短休法術位。可疊加。</content>
+  <content contentuid="hf0c92b0ag5ab6g1b2bge2a3geeb3748afce2" version="1">三分之一施法者二</content>
+  <content contentuid="h19b14e2eg55b0g435bg3e5ag96302c6d16f3" version="1">你獲得相當於你角色等級三分之一環施法者（如奧法騎士、奧秘詭術師）的每日法術位。可疊加。</content>
+  <content contentuid="h667060e0gf68egd0b4gac93g46c128e45c85" version="3">平凡存在</content>
+  <content contentuid="h678aff1dg144eg2cf3ga044g51627752ac05" version="3">你拋棄了對魔法的追求，轉而追求其他更平凡的興趣。可疊加。</content>
+  <content contentuid="he7d5e609ge97dga02bg6fd3ged666bba1aa8" version="1">契術士施法者二</content>
+  <content contentuid="he66dfd11g3b33ga65fg5b2cg740a932d7943" version="1">你獲得相當於你角色等級契術士的短休法術位。可疊加。</content>
+  <content contentuid="hceddcc26g9c15g92d5gad88ga271bd1c7502" version="1">Skip III</content>
+  <content contentuid="hec9c4b79gcd61g9fcbg7557g1fcd1bc7eaad" version="1">You are not interested in the powers offered in this list.</content>
+  <content contentuid="hfebfb8ecg779bg6cbdgd681ge88dbba79b8a" version="2">平凡存在二</content>
+  <content contentuid="h459ba6f2gd0b7g52efg1ee3gb89bb06b9b21" version="3">你拋棄了對魔法的追求，轉而追求其他更平凡的興趣。可疊加。</content>
+  <content contentuid="h95946d8ag6b58g3860gce9cg950cac70642b" version="1">Skip IV</content>
+  <content contentuid="ha507449agc13dg6395g67a7g8a1d38fface2" version="1">You are not interested in the powers offered in this list</content>
+  <content contentuid="h9b3f75b2g8c95gf74egf5ceg115f12b4e5bf" version="1">Skip V</content>
+  <content contentuid="hd688ad7bgff10ge4c4g1fd3ge3c366bedb62" version="1">You are not interested in the powers offered in this list</content>
+  <content contentuid="ha14c68fagb968gd6a0g0c7cg1f23b2c9580f" version="1">Skip VI</content>
+  <content contentuid="hbe5caa27g786bg1b55g0e57ga0081e3784cd" version="1">You are not interested in the powers offered in this list</content>
+  <content contentuid="h7ad99b36ga6e4g6235g97ecgdb490fe6b28d" version="2">奧術傳統</content>
+  <content contentuid="h5d2b1379gf217g4559gbf73g139271f11922" version="5">你的魔法來自於對多元宇宙法則的掌握。你獲得所有相當於你角色等級的法師已知法術（不包括稀有法術）。</content>
+  <content contentuid="h3043e08dg5b1egae8ag5a4dg9b2db4775e2d" version="1">Light Domain</content>
+  <content contentuid="hd6baa192ge14agb57cgb4c4gfdc14e367ed6" version="1">Your magic flows from the sacred font of light. You get all light domain cleric spells known as you level up.</content>
+  <content contentuid="haef0c9a3g9c3fg19b0gfc31g88862848b4f5" version="1">Trickery Domain</content>
+  <content contentuid="h0547a23ag7152geb2cg780cg1860bf67e3f3" version="1">Your magic flows from the sacred font of guile. You get all trickery domain cleric spells known as you level up.</content>
+  <content contentuid="ha8309ec1gfa9dg21fcg50a3g78bfae3ddedd" version="2">神聖傳統</content>
+  <content contentuid="hba85da56gac18g3b7bgf233g1e051bf84c74" version="3">你的魔法來自於神力源泉。你獲得所有相當於你角色等級的牧師已知法術。</content>
+  <content contentuid="had0ed4ccg5b7cg7c5aga770g4be74ddc3750" version="1">Nature Domain</content>
+  <content contentuid="h1a522492g56a9g5c35gd4b8g9959ee5e9a8c" version="1">Your magic flows from the sacred font of wilderness. You get all nature domain cleric spells known as you level up.</content>
+  <content contentuid="h57b0ccd6geaf3g4fa5gb873g5af32fa51c0b" version="1">Knowledge Domain</content>
+  <content contentuid="h789fb4c5gb690ge1b6g2664gb99f41d1d419" version="1">Your magic flows from the sacred font of wisdom. You get all knowledge domain cleric spells known as you level up.</content>
+  <content contentuid="h1ebca586g3bf6gbda7g218cg9955b3fc60fb" version="1">Tempest Domain</content>
+  <content contentuid="hd5ef1053g7f4bg20f6gd188g817400e8de86" version="1">Your magic flows from the sacred font of storms. You get all tempest domain cleric spells known as you level up.</content>
+  <content contentuid="h3ef5b691g2100gb082g300fg06214283cfbd" version="1">War Domain</content>
+  <content contentuid="h3f8c7870ga607gded0gfedcgd4493dec51d3" version="1">Your magic flows from the sacred font of battles. You get all war domain cleric spells known as you level up.</content>
+  <content contentuid="h6429de12g0568g5b59g90edg50c1612afb28" version="1">獵人之禮</content>
+  <content contentuid="h31de6db7g29d4g685egac18g4c4719e85384" version="1">神聖誓言</content>
+  <content contentuid="h2c89c6c8g28b6g3d49g68bdg46f6f8dbf9bf" version="1">野性傳統</content>
+  <content contentuid="hc407fdcdgb49cge05ag3880g6aa27195ac4c" version="1">音律傳統</content>
+  <content contentuid="he5972740g122ag0a3cg8523g8cfe5dd420c5" version="2">你的魔法迴響著創世聖言的餘音。你獲得所有相當於你角色等級的吟遊詩人已知法術。</content>
+  <content contentuid="he001cabfg53d0g95e2gc235gf2c3a7708190" version="1">玄秘傳統</content>
+  <content contentuid="hf8363318g79c8g4902geed6gc75bf99ce47f" version="1">Wizard Spells Known I</content>
+  <content contentuid="h272f764bgcc50g765fg44ebgc0598680f63c" version="1">Wizard Spells Known II</content>
+  <content contentuid="h7eb21913g91fdg9e72gd3ecg1a372d9a66cc" version="1">Wizard Spells Known III</content>
+  <content contentuid="h914e5714g067bg52fagc5b1g0a6c84289bce" version="1">Wizard Spells Known IV</content>
+  <content contentuid="hc2ec56b1g5023g6916g774ag04bc0e8c0cd2" version="1">Wizard Spells Known V</content>
+  <content contentuid="h87082d01g3aafgc8cfgc960g5208e5969411" version="1">Wizard Spells Known VI</content>
+  <content contentuid="hfe087022g2b59gcfc1gb684gc41ec7137b0f" version="1">Bard Spells Known I</content>
+  <content contentuid="hc1530ec9gb033ge793g4a98g922d2d6398f6" version="1">知足常樂二</content>
+  <content contentuid="h3dbfdbecgb4f9gc3a1gc71fg7567defeab21" version="1">你對於你現有的魔法很滿足。可疊加。</content>
+  <content contentuid="h3d892c0dg188bgc1e6g97fdg1db6989d4632" version="2">知足常樂</content>
+  <content contentuid="h051a0290g1029g46fegacc7g813a62fc09e6" version="1">知足常樂三</content>
+  <content contentuid="hcff87bceg2425geaeagf9fdg87e27343c133" version="1">你對於你現有的魔法很滿足。可疊加。</content>
+  <content contentuid="h0c6179a7gaaa3ga06cg0d2eg58a919441864" version="2">你的魔法對你追蹤獵物大有裨益。你獲得所有相當於你角色等級的遊俠已知法術。</content>
+  <content contentuid="hfe836073ga094g9d5egaa4egcdb832b05ad8" version="2">你的魔法對你踐行誓言大有裨益。你獲得所有相當於你角色等級的聖武士已知法術。</content>
+  <content contentuid="hbeb8437eg8907g978eg8afeg7b53ae18c662" version="1">你的魔法來自於孕育一切生命的野性自然。你獲得所有相當於你角色等級的德魯伊已知法術。</content>
+  <content contentuid="h6f93ac11ga273g4656g13c1gd3cccff525b8" version="1">你的魔法來自於異界實體的低語。你獲得所有相當於你角色等級的契術士已知法術。</content>
+  <content contentuid="he9a39cbegc0a6gb172g7700g2e15be5091a0" version="1">Bard Spells Known II</content>
+  <content contentuid="hbe47cd9ag7f53g2725gea76g869a8227de2d" version="1">Cleric Spells Known I</content>
+  <content contentuid="h871d948dg7e50g6111gd214g82464ee0c210" version="1">Bard Spells Known II</content>
+  <content contentuid="he350692egef28g0beeg7c6fg58d4cb2aa61f" version="2">Bard Spells Known III</content>
+  <content contentuid="h98ced53cg8600gd282g9a2dg84bfecbcc2f2" version="1">Cleric Spells Known II</content>
+  <content contentuid="h14e4030agc168gb0e2gbb24g0c6932e316d7" version="1">Cleric Spells Known III</content>
+  <content contentuid="h33e627cdgc4acgcecfgecb1g5adb9d2b70d4" version="1">Druid Spells Known I</content>
+  <content contentuid="hf6daf755g81d3g8474g7939g4958101974bc" version="1">Druid Spells Known III</content>
+  <content contentuid="hbce06b34g953eg66e7g2b2agf8cb4814b276" version="1">Druid Spells Known II</content>
+  <content contentuid="hcd320528g0e8ag1ffdg38f1g3d133747b422" version="1">Druid Spells Known IV</content>
+  <content contentuid="h411a1227g5799gba99g6658g22084faebf4b" version="1">Warlock Spells Known I</content>
+  <content contentuid="h1c8f8ec9gab13gd3edg56c3g39eab7f8963f" version="1">Warlock Spells Known II</content>
+  <content contentuid="he236f8b2g3fbdg3ffeg3058g86845de56c78" version="1">Paladin Spells Known I</content>
+  <content contentuid="hdd5b4a20gd807g5c25g0d2cg942c6787dee7" version="1">Paladin Spells Known II</content>
+  <content contentuid="he125d009g67c6g68f5gd80egeea651d84340" version="1">Ranger Spells Known I</content>
+  <content contentuid="h8ec92691g81b1g0a96g0a99g4e4687facda1" version="1">Ranger Spells Known II</content>
+  <content contentuid="h78e6c920gb607gdbd0g3c1fg6ac6b2825d45" version="2">狂戰士之道</content>
+  <content contentuid="h8cc50c03gc6a3gc055ge4dfgb134ae2f8da7" version="3">你的野性直覺以暴力和狂怒的形式所展現。你獲得所有相當於你角色等級的狂戰士野蠻人職業能力。</content>
+  <content contentuid="hb4aa9403gabf1gbe87ge183g1f0a363bb158" version="2">Barbarian I</content>
+  <content contentuid="h82e8cd1eg2d67g240bg3404gb72259bbe6d7" version="2">野性之心之道</content>
+  <content contentuid="h6ba77f05g303egebcdg6494g206c44e36559" version="1">你的野性直覺以與自然和動物的聯結所展現。你獲得所有相當於你角色等級的野性之心野蠻人職業能力。請在後續選項中選擇具體的野性之心和動物面貌。</content>
+  <content contentuid="hf393d167g8f42gf8abgf80egb3490f4864b9" version="2">狂野魔法之道</content>
+  <content contentuid="hdb006581g6425gfd9ag8a21gf003720b6a0e" version="1">你的野性直覺以一股混亂魔法能量的形式所展現。你獲得所有相當於你角色等級的狂野魔法野蠻人職業能力。</content>
+  <content contentuid="hd42b6dc9gc8f1gc40fgb5cdgfa0945fd74d6" version="1">Barbarian XI</content>
+  <content contentuid="hb32c25ffg263agfeb8g6571g13f07b9f92f4" version="1">Barbarian II</content>
+  <content contentuid="h97a31218ge8f2g81d0g1a94g45f088dac8ab" version="1">Barbarian V</content>
+  <content contentuid="h1a2670e6g49f6g1856g8a86gcfb45ce33b93" version="1">Barbarian VII</content>
+  <content contentuid="h9c538061g636agb8d5g08b3g756c2b05a4f1" version="1">Barbarian IX</content>
+  <content contentuid="hde854fccgf3feg0968g79a2g7f421768d38f" version="1">Berserker I</content>
+  <content contentuid="hfa71bad2gcf05g1231gb3ceg0aa80e3aaa86" version="1">Berserker VI</content>
+  <content contentuid="h05414942g42e1g375bgff6bg7625036cd9fa" version="1">Wild Magic I</content>
+  <content contentuid="hc92a2b06g4a27g1a62gef00g5c9596dd7e8c" version="1">Berserker X</content>
+  <content contentuid="hec6a18f5gd392g2906g20a2g72ad819c72a6" version="1">Wild Heart VIII</content>
+  <content contentuid="h98ecf3f1g26d3gf17fg9f1dga10262396133" version="1">Wild Magic VI</content>
+  <content contentuid="hcdef3db0g0a16ge6f0gfbb7g412773c6bf53" version="1">Wild Magic IX</content>
+  <content contentuid="hbb9f956cg79c1g5106gc06cg3e1f0663554e" version="1">Wild Magic X</content>
+  <content contentuid="h31f71eccge29agb251g6bc8g1872fa9b468b" version="1">文明人</content>
+  <content contentuid="hc89b184cg6c0dgb403g3ffcgda9d5523f7de" version="1">你不覺得這些野性直覺有什麼開發的必要。</content>
+  <content contentuid="hdeb616f9g4b8eg0a62g38c7g49d88e9b225f" version="4">人類中心主義</content>
+  <content contentuid="h6b66be1dg4ca8gc1cbg7790g48e0783140da" version="3">你對於跟此列表中其他動物建立聯繫不感興趣。如果你選了“野性之心之道”，請不要選擇此項。</content>
+  <content contentuid="hc3d80575ga8f7g6b90g894ag322a12d50017" version="3">人類中心主義二</content>
+  <content contentuid="h65a698cegcebagcf0dgbdd0gf5dffbf507de" version="2">你對於跟此列表中其他動物建立聯繫不感興趣。如果你選了“野性之心之道”，請不要選擇此項。</content>
+  <content contentuid="h96e97f34g805fg36acgcc1bg9fbdd721d4a2" version="2">寧靜</content>
+  <content contentuid="h47385be7ga71cgc220gb4aeg82c3954039b6" version="3">美麗的自然只會讓你心情寧靜，而不是產生野性衝動。如果你選了“野性之心之道”，請不要選擇此項。</content>
+  <content contentuid="h300bd260gf1aeg4370gcc5dg953ec3746a80" version="1">Skip IV</content>
+  <content contentuid="h66505390g2b33ga156gd2e2g84c77b7e0fc9" version="1">Other options in this section do not apply to you. Stackable.</content>
+  <content contentuid="h2715859eg7899ga631gc117gae80934cd150" version="1">Skip V</content>
+  <content contentuid="hc58c5a97g15b2gd40agcd6bgf01e41833e5a" version="1">Other options in this section do not apply to you. Stackable.</content>
+  <content contentuid="h9355bcbbg5414g4206g2882ge05f88fe2bc9" version="1">Skip VI</content>
+  <content contentuid="h68fa9509gb753g83b9ga853g51e7831a39cd" version="1">Other options in this section do not apply to you. Stackable.</content>
+  <content contentuid="h599a9486gcfb2g262cgc9b5gac033a450389" version="1">逸聞</content>
+  <content contentuid="h6781e350gd2f0gbfcbg320agb3795cd8ebe1" version="2">你傾心於隱秘的逸聞和來自歷史的回音。你獲得所有相當於你角色等級的逸聞學院吟遊詩人職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="haa30895bg4679gbff8g8fd0ga20da61e7479" version="1">勇氣</content>
+  <content contentuid="hcffff0c0g2baeg4f86gc07ag4da9a7ec4dc7" version="2">你傾心於敘說英雄的傳奇和對勇氣的謳歌。你獲得所有相當於你角色等級的勇氣學院吟遊詩人職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hc6b81b42g21d0g78d9g0d58g3ab13fff691d" version="1">劍舞</content>
+  <content contentuid="h2880c371g55e4g0437g32a6ga90f793a2158" version="3">你傾心於戰鬥中猶如舞蹈般優雅的劍術與身法。你獲得所有相當於你角色等級的劍舞學院吟遊詩人職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hf1c4aafcgdae2g37bagda95g9fdf4f160e31" version="1">業餘</content>
+  <content contentuid="h49171e1bg0373gcfb2gd4d6g93112961cc21" version="1">你不是專業的音樂從業者，不過這或許不妨礙你欣賞別人的藝術。</content>
+  <content contentuid="h09d32baag31a0gbba0g74b4g2d1c5222dd48" version="1">Bard II</content>
+  <content contentuid="h7918e4e5g79d3g80b3g94d6g36879bb00bc4" version="1">Magical Secrets: Lore</content>
+  <content contentuid="h60dc96acgbd3ag90b4g1e42g5f8c362a2570" version="1">Bard I</content>
+  <content contentuid="h0e5e8dbdgbabbg7fccg21bcg082c4dff01b7" version="1">Bard V</content>
+  <content contentuid="hccf10385g4558gaa97g6200gae1eb7f0e46b" version="1">Bard VI</content>
+  <content contentuid="h6d2a7bb6gd5dcg93fdg5f89g365345376986" version="1">Bard X</content>
+  <content contentuid="ha08e5092gd153g753agd033g35455b1252d6" version="1">Lore III</content>
+  <content contentuid="h0bd8be77gc194gfb1fg05bcgeac588472c81" version="1">Valour I</content>
+  <content contentuid="h90399d55gbd16gf9d4g760eg5eb35b92dad7" version="1">Valour VI</content>
+  <content contentuid="he2b0dbd2g4412gb304gc242g0dc931b45c25" version="1">Magical Secrets: Valour</content>
+  <content contentuid="hc5d518e7gc1c2gbd00g0f37g2dd03cf7a7f3" version="1">Swords III</content>
+  <content contentuid="hda82cee8gfe87g6b1ag38ceg7ad2380c795a" version="1">生命</content>
+  <content contentuid="h0425dc47gf97fg57acgd0e2g70cee625aedd" version="1">你的力量來自於神聖的生命源泉。你獲得所有相當於你角色等級的生命領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hfa07a738g1831g4539g8f05g95193be40316" version="1">光明</content>
+  <content contentuid="hda46853eg34f9g30ffg8ae1g56d6d6574841" version="1">你的力量來自於神聖的光明源泉。你獲得所有相當於你角色等級的光明領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hbe0e4615g869ag041cgb606gb2c39bc22dbd" version="1">Cleric X</content>
+  <content contentuid="h3762d389g22c5g82ffgd052gb2476924833a" version="1">Cleric II</content>
+  <content contentuid="h67b4800fgd445g4ca7gd07cg23f66a5375d6" version="1">Cleric V</content>
+  <content contentuid="h506bd52fg954dgf280g3d8eg86e0c3ec71ba" version="1">Domain Spells: Light</content>
+  <content contentuid="h8cb91493geab9g4bc0g5060g39f315be9c4a" version="1">Life I</content>
+  <content contentuid="h3eb29014gacdag6988g4ddeg9a625a38b169" version="1">Life II</content>
+  <content contentuid="h7ea8290cg70c7g3e6cg468ag41d0e0cacabe" version="1">Life VI</content>
+  <content contentuid="haecb2cfbg3effged9bgabdag84c888bd4bfe" version="1">Life VIII</content>
+  <content contentuid="hd8cf5365gc11bgc3c5gf091g2b68715f37d3" version="1">Light I</content>
+  <content contentuid="h9254afbdg0503gea71ge130gbac24449dd2b" version="1">Light II</content>
+  <content contentuid="h264d4e4cg9f19gf1e1gea0eg02f2ec94dddf" version="1">Light VI</content>
+  <content contentuid="h343b2086g44b1gebc4gdb57g10d2f8da473f" version="1">Light VIII</content>
+  <content contentuid="ha3d323efgc0d0gd20ag793egc93c17b4f237" version="1">知識</content>
+  <content contentuid="hf2a94649gf627g800fg259fgc35ee1b13bc6" version="1">你的力量來自於神聖的智慧源泉。你獲得所有相當於你角色等級的知識領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h4f49c177g8682gac77g5dc7gc113c449e5f3" version="1">詭術</content>
+  <content contentuid="h0371dd94gd2f8geccag9be7g4f74441f9833" version="1">你的力量來自於神聖的詭秘源泉。你獲得所有相當於你角色等級的詭術領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h34c16e77g1b28gebc4gb356g4f0e23ef718a" version="1">自然</content>
+  <content contentuid="h1af1cbdaga800g68bbgbbf5g23f600eaabdd" version="1">你的力量來自於神聖的野性源泉。你獲得所有相當於你角色等級的自然領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h665d2d64ge55fga957gbc32g44cc1b821b64" version="1">隨性</content>
+  <content contentuid="h2501418fgc8fcg98d0g7ad3g2053b0a248bc" version="1">你在戰鬥中不會拘泥於一種固定的戰鬥風格。可疊加。</content>
+  <content contentuid="h034529f0ga2a9gaeabg886ag3f26d6e83cb8" version="1">隨性二</content>
+  <content contentuid="hd14f9dcag068fg4cc9g9a48g63b52e9094f3" version="1">你在戰鬥中不會拘泥於一種固定的戰鬥風格。可疊加。</content>
+  <content contentuid="h6d14d678g2427g43efg9642g0afb987aee17" version="1">隨性三</content>
+  <content contentuid="h6cf6fe35ge630gfbb1g8379g8b8a6689f610" version="1">風暴</content>
+  <content contentuid="h3b6dc56dge5b1g8d7fgfd31gcd90685c336c" version="1">你的力量來自於神聖的毀滅源泉。你獲得所有相當於你角色等級的風暴領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h9ae2eb93g92c5g9cf2g4267ge767038c2aa6" version="1">戰爭</content>
+  <content contentuid="h6e6adb54g77bdg5992g457fgbe2a6326c0c9" version="1">你的力量來自於神聖的戰鬥源泉。你獲得所有相當於你角色等級的戰爭領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hffde390bg95c4geeb6g612dgae5e62b5f4d4" version="1">凡性</content>
+  <content contentuid="hf9e477f5ge8e4gd0e4g2311g302868d510ab" version="1">你的力量與神力無關。</content>
+  <content contentuid="h80b58212g6ad7g8829g592dg80bf6a9f5a4c" version="1">巴哈姆特</content>
+  <content contentuid="h75a966f8g48fcgb947g159fg7b4fd9805fa1" version="1">你決意侍奉白金龍神巴哈姆特，並且以他的牧師自居。</content>
+  <content contentuid="ha660cd32g1137g29a6g57b3g025f7ee64938" version="1">梅莉凱</content>
+  <content contentuid="h3a97f8e2gf13egc215g0509g9ca2788d1f87" version="1">你決意侍奉白金龍神巴哈姆特，並且以她的牧師自居。</content>
+  <content contentuid="hdc82fc18g4b8agb027g91c7gb330b50a0dad" version="1">柯瑞隆·拉瑞辛安</content>
+  <content contentuid="h8b5064c2g76fagaea3g5e19ge2665af68082" version="1">你決意侍奉精靈主神柯瑞隆·拉瑞辛安，並且以他的牧師自居。</content>
+  <content contentuid="h0345b951g83c1g9552gc444g0a86ad55dde5" version="1">艾莉絲翠</content>
+  <content contentuid="he2d9d530gcb76ge4a8g9e3dg7e48358f0592" version="1">你決意侍奉卓爾善神艾莉絲翠，並且以她的牧師自居。</content>
+  <content contentuid="h73e694fag4d2cg1fcag013cg7829f74a5b96" version="1">加爾·閃金</content>
+  <content contentuid="h88e807d7gf82ag624dg1530g971e0abcf067" version="1">你決意侍奉侏儒主神加爾·閃金，並且以他的牧師自居。</content>
+  <content contentuid="h71b7b915gcbb3gd6dege0b0g5ab62eedd5a9" version="1">格魯什</content>
+  <content contentuid="h783d2945gcbadgfdb9gee31g5aedec5f31d0" version="1">你決意侍奉獸人主神格魯什，並且以他的牧師自居。</content>
+  <content contentuid="h6126c8cdgfcc1ge79cg58d8gfa6344967b7f" version="1">海姆</content>
+  <content contentuid="h83d5812dg16fegb52cg219dg49a143d0284f" version="1">你決意侍奉守衛之神海姆，並且以他的牧師自居。</content>
+  <content contentuid="h5b4dde6cge6a2g44c9gf676gc8e35b65d492" version="1">伊爾瑪特</content>
+  <content contentuid="h7807bdc4gdf3eg8b70gd1d7ga211bb5d7a7d" version="1">你決意侍奉受難之神伊爾瑪特，並且以他的牧師自居。</content>
+  <content contentuid="he465dbddgc3b5g5f01gdca5g4277fef51ad3" version="1">克蘭沃</content>
+  <content contentuid="h1b305039g37dbged2fgec29g187949b0e010" version="1">你決意侍奉亡者之主克蘭沃，並且以他的牧師自居。</content>
+  <content contentuid="h84f423eag6bd2g99dcg24b1g57e62c5dc8f9" version="1">拉杜格</content>
+  <content contentuid="h6c2c4279g2e4bgf0fdge699gea5c849284a8" version="2">你決意侍奉灰矮人主神拉杜格，並且以他的牧師自居。</content>
+  <content contentuid="h4a011173g1f3cg1603g27a6g192695d33a2f" version="1">洛山達</content>
+  <content contentuid="h54a54069gafc3g924dg8002ge9f11a24688f" version="1">你決意侍奉晨曦之主洛山達，並且以他的牧師自居。</content>
+  <content contentuid="h172edb70g0345gdceegc38fg17c9a4652e82" version="1">蘿斯</content>
+  <content contentuid="he1608347geff1g9114gd32bg312e165fc027" version="2">你決意侍奉蜘蛛之母蘿斯，並且以她的牧師自居。</content>
+  <content contentuid="h4df11636gc2e8g8311gf0cag5e95956db806" version="1">密斯特拉</content>
+  <content contentuid="h02c3312bgacceg9c9cgfa6cge33d75e637d2" version="1">你決意侍奉魔法之母密斯特拉，並且以她的牧師自居。</content>
+  <content contentuid="h7bde3896gbafbg61beg8bedg706ce0d45e00" version="1">莫拉丁</content>
+  <content contentuid="h1acddf7bg1f4cgaea9gbf88gc948ab3ec17b" version="1">你決意侍奉矮人主神莫拉丁，並且以他的牧師自居。</content>
+  <content contentuid="h53655a1eg6866gc226gd2c5g6827ac98c233" version="1">歐格瑪</content>
+  <content contentuid="hb9b513f9gb2e1g500fg3346g391cfb06274e" version="1">你決意侍奉知識之神歐格瑪，並且以他的牧師自居。</content>
+  <content contentuid="h364a2ea2gca57g3657g34bfg4a6225d78131" version="1">塞倫涅</content>
+  <content contentuid="h9a1d3eb8g1e57g5213ge54fgf568d2645c02" version="1">你決意侍奉月神塞倫涅，並且以她的牧師自居。</content>
+  <content contentuid="h8997bff8g5e69g3840g3ec4gac4f1fdbeeb1" version="1">塔洛斯</content>
+  <content contentuid="heb4f0453gdc2ag9c4ag51c9g67c0b15f2bbc" version="1">你決意侍奉毀滅之神塔洛斯，並且以他的牧師自居。</content>
+  <content contentuid="hda26f393g974bg6476g92f8g73f4411399ba" version="1">坦帕斯</content>
+  <content contentuid="h9d6e5714g6557g71e3gd8d5g7ebd94187ebe" version="1">你決意侍奉戰神坦帕斯，並且以他的牧師自居。</content>
+  <content contentuid="hb4a48265g199cg3cf2g6a74gc254be255229" version="1">提亞馬特</content>
+  <content contentuid="h0a3572e6gb731g31e9ga19dg73c96cf30dcf" version="1">你決意侍奉五色龍後提亞馬特，並且以她的牧師自居。</content>
+  <content contentuid="h8b3c8cf3gd2fcg30ceg7454gd991a63065d0" version="1">泰摩拉</content>
+  <content contentuid="h31873a63g0412g0236g0d86g16cc30bf6564" version="1">你決意侍奉幸運女神泰摩拉，並且以她的牧師自居。</content>
+  <content contentuid="h000a9baegeba1g1ee8gddb4g0501160d7f63" version="1">提爾</content>
+  <content contentuid="hb1adf869g03f4g941cgcf7agf162a7b8d6d2" version="1">你決意侍奉正義之神提爾，並且以他的牧師自居。</content>
+  <content contentuid="hcfe06169g2f19gfbc3gdb57g62fe6b3d1d11" version="1">瓦拉基斯</content>
+  <content contentuid="h2ff39e8eg99d7g7d21gdacdge7f085ea6339" version="1">你決意侍奉吉斯洋基人的領袖巫妖女王瓦拉基斯，並且以她的牧師自居。</content>
+  <content contentuid="h66818bf2gc551g9e56ga30eg7386da43a58b" version="1">世俗</content>
+  <content contentuid="h81d9ae44g1c4ag32a6g964dg8b3cb494837e" version="3">你並不侍奉任何一位費倫的神祇，不過你的行為仍有可能為某些神祇帶來利益。</content>
+  <content contentuid="ha231e469gd383g10b9gd0d1g1b3dbc84dfd1" version="1">悠達拉</content>
+  <content contentuid="hc8096589g778dge16fg7c8cgbdb9ce6113e4" version="1">你決意侍奉半身人主神悠達拉，並且以她的牧師自居。</content>
+  <content contentuid="h1fe98426g2f26g608dg936cgc6cec7f69f76" version="1">Knowledge II</content>
+  <content contentuid="h5f1e73b6gb9deg8cc5g46dbg9d65721aeedc" version="1">Trickery I</content>
+  <content contentuid="h820fbd2agb02cg3f9bg50e0g6dabb0a44353" version="1">Trickery II</content>
+  <content contentuid="hdd3af22dgcd17g17f4g4d59gaa5b815d77b6" version="1">Trickery VI</content>
+  <content contentuid="hebdd85e9g9948gd31dgb8a4g38f5258cd1cb" version="1">Trickery VIII</content>
+  <content contentuid="h246b4c0bg18a9g464dg1e49gb8e315690f85" version="1">Domain Spells: Trickery</content>
+  <content contentuid="h0b8498f5g5a88ge8c1g84dbg6d9310ec188f" version="1">Nature I</content>
+  <content contentuid="h3ed58940gf80fga13fgb4c8g26d1d5ec9a54" version="1">Knowledge VI</content>
+  <content contentuid="he0051cf6ge8adgd624g9e0cgb4a959710040" version="1">Knowledge VIII</content>
+  <content contentuid="h13ff16d8g0583ge956g6cd7g4fdbcf7766ff" version="1">Domain Spells: Knowledge</content>
+  <content contentuid="h48b31abegd54agdc13g9990g4e79ba3dc51c" version="1">Nature II</content>
+  <content contentuid="hf2b0e198gd5d0g1adag81a5gfcbcb34e5704" version="1">Nature VI</content>
+  <content contentuid="he2ca1598gda5cg7f47ge849gb1b67b9ae4b2" version="1">Nature VIII</content>
+  <content contentuid="ha7339fcfg78a2g38c0gf0b1g3f92296f96dd" version="1">Domain Spells: Nature</content>
+  <content contentuid="ha8630d9bgf3e8g8dcbgaa57g8b8fec10369b" version="1">Tempest I</content>
+  <content contentuid="he0d70fe0g79c6g4054ga371g580cf9cb5cab" version="1">Tempest II</content>
+  <content contentuid="h563c99d4gfb8bg7df1gd2a5g51cc6614b8d0" version="1">Tempest VI</content>
+  <content contentuid="hc0330cd9g1af6g1dc8g9dcdgde34b4a72c6b" version="1">Tempest VIII</content>
+  <content contentuid="h1bc700c5g4a2bgb2d9ga6c9g3b6109b38a24" version="1">Domain Spells: Tempest</content>
+  <content contentuid="hd534c2a7g6289g1ae9g2471gf6db2aacaa6f" version="1">War I</content>
+  <content contentuid="h557da736g46b3g28dbg94ffg6dfc15e9fa2a" version="1">War II</content>
+  <content contentuid="h30ba76bdg18aeg9597gc73ega231f06b0f5e" version="1">War VI</content>
+  <content contentuid="h28fb135dgf85dg1ec2g75e1g5fac3d4d5134" version="1">War VIII</content>
+  <content contentuid="h3d936deeg53begc68ag99c7g2b38547f86a0" version="1">Domain Spells: War</content>
+  <content contentuid="h5ea656fcg5e2fga9c7gb8b9g74c96d3ebf15" version="1">Land VI</content>
+  <content contentuid="h359678bdg46efgf988g6b97g6a04e914d2b3" version="1">Druid II</content>
+  <content contentuid="h7e2bdd31g972egfa6dg2b82gd6041b8794ea" version="1">Druid IV</content>
+  <content contentuid="he70ee049ga097g5436gb7d7g7e2e823b61e6" version="1">Druid V</content>
+  <content contentuid="hf7cebb1fg12e0gd420gdcadgd5aaf8c362a8" version="1">Druid VI</content>
+  <content contentuid="h28789621g6fd7g566egaaf6g876685a336a2" version="1">Druid X</content>
+  <content contentuid="hc7ca6f31g1ba2g213cg9360g3a5d4dd07e47" version="1">Land X</content>
+  <content contentuid="h0ab1f5cdg81dcg0051gce26g64ca289a729b" version="1">Land Spells</content>
+  <content contentuid="hb77173cag1634gfdbcg08fegc6859d023133" version="1">Moon II</content>
+  <content contentuid="h707a468bg567bgac72g765dgfa57b6ac90e7" version="1">Moon X</content>
+  <content contentuid="h6df83d6fg73f6g7398gd226g9cc66920b495" version="1">Moon IV</content>
+  <content contentuid="hf663691fga27eg394bg18cbg9636eab36f8f" version="1">Moon VI</content>
+  <content contentuid="h1c13c023g3771g534dg90a4g4161e4a2ffc0" version="1">Moon VIII</content>
+  <content contentuid="h4e135ff5g615egf9e7gaafag066e36ff443e" version="1">Spores II</content>
+  <content contentuid="hefc143d4g7694g47d3g3d05gd2c0ee059f48" version="1">Spores VI</content>
+  <content contentuid="h31762ddegb9fcg237bg82b3g79ffc3fcd450" version="1">孢子</content>
+  <content contentuid="h29e494fcg51c2g00c8gcfd3gbc471b3fd688" version="1">你與淘汰舊生命，孕育新生的孢子建立了聯繫。你獲得所有相當於你角色等級的孢子德魯伊職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h0dd9cdbeg40ffg0340g9c7cgd17156916fad" version="1">月亮</content>
+  <content contentuid="h611bd1f7geb82gbae6g0b40gc455e27c279f" version="1">你與在不同相位之間週期變化的月亮建立了聯繫。你獲得所有相當於你角色等級的月亮德魯伊職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="ha967e921ga1begd91ag7337gb0d69a8f87eb" version="1">大地</content>
+  <content contentuid="hb66109f9g9badg35c0g1f8bgbe34ab6ba7ad" version="1">你與承載所有生命的大地建立了聯繫。你獲得所有相當於你角色等級的大地德魯伊職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h18e31cf0g0dc9gc93agb1d0g7fe4df71b02c" version="1">城裡人</content>
+  <content contentuid="h44c155a8gc8fag1b43g4c4egf43d8182bb9f" version="1">你對自然沒什麼特殊的感情。</content>
+  <content contentuid="h0f6f02bag0cfcg2203gf764gdafff6fa113f" version="1">Spores X</content>
+  <content contentuid="h90a25f27ga8ebg49b3g5d56gbc2a1cdf4d1e" version="1">Spores Spells</content>
+  <content contentuid="h27f6929dg898fg95f2g24a6g93db34d39fd4" version="1">戰技</content>
+  <content contentuid="h9edacc93gfe08g2fabg4718g8546954f3c2d" version="1">你會在戰鬥中通過戰技取得戰場優勢。你獲得所有相當於你角色等級的戰鬥大師戰士職業能力。</content>
+  <content contentuid="h406468d9g3423g8aa9gaaf3ga64b49b0d889" version="1">戰鬥魔法</content>
+  <content contentuid="hba123c12g819fg41a0g68ebg7f7c9c363f65" version="1">你會在戰鬥中通過戰法協同取得戰場優勢。你獲得所有相當於你角色等級的奧法騎士戰士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h674d1761gc892gb202gb463g6318e5094db7" version="1">蠻力</content>
+  <content contentuid="h465fbe69ge04cga5beg2243g650e2631347d" version="1">你覺得什麼策略都不如你自己久經訓練的身體和意識管用。你獲得所有相當於你角色等級的冠軍戰士職業能力。</content>
+  <content contentuid="h88f098ecgf22eg79eegd42eg969720956c69" version="1">次要魔法</content>
+  <content contentuid="hecc7e230gea84ge412g2fb1ge6aea982d46e" version="1">你的魔法只是對你主要能力的補充。你會在3級獲得所有法師戲法和1級法師法術，在7級獲得所有2級法師法術。</content>
+  <content contentuid="he288396bgdc85gdb78g628dg1cabfdf201af" version="1">自信</content>
+  <content contentuid="h38e6e4aeg34cdgcbb9g4decge4f5e91d5004" version="1">你對你現有的能力感到自信，沒必要再進行額外的武技訓練。</content>
+  <content contentuid="h937f4258g9c97g63aag0bfag1aa0f73baa22" version="1">Battle Master X</content>
+  <content contentuid="h83822b29gcfdeg7000g9d78g6a508bfcfcf2" version="1">Fighter I</content>
+  <content contentuid="h9302e690g316ag87e5gad0fg3f279de21c42" version="1">Fighter II</content>
+  <content contentuid="hd00ae3e9g3bbcg37d3g9e10g1f0916b22501" version="1">Fighter V</content>
+  <content contentuid="he510b543g9671g8206g3888gc82d3132aef4" version="1">Fighter IX</content>
+  <content contentuid="h55e75739g4d06g5ea6gf812g93715b33e219" version="1">Fighter XI</content>
+  <content contentuid="h8b41e31egbafbgeabbg2926gb18209873f38" version="1">Eldritch Knight III</content>
+  <content contentuid="h3eb4c83ag4da9gf288gb822g391d601ef44e" version="1">Eldritch Knight VII</content>
+  <content contentuid="h1b14de5cg5063g0860g39afgfec00d54624c" version="1">Eldritch Knight X</content>
+  <content contentuid="h4104d5c2gc8f8ga0d3g5487g3725fa757ec4" version="1">Champion III</content>
+  <content contentuid="h05521e28g94e5g4eb1gf198ga996c7837515" version="1">Wizard Spells Known VII</content>
+  <content contentuid="h4d7250dbgc449gcc52g7159g106c7aa9196f" version="1">Champion VII</content>
+  <content contentuid="h7945e3a4g1032g43b7g94e7g2e8f6c27ea12" version="1">Secondary Studies I</content>
+  <content contentuid="h4079a562geee9g7c1cgfe71g8b088b0fefc4" version="1">Secondary Studies II</content>
+  <content contentuid="h88556d26g0420gd11bg6144gfc04fdbfbb2a" version="1">Secondary Studies III</content>
+  <content contentuid="h4695e8ccg3869g4dbdg557bgc544b4ee5236" version="1">Secondary Studies IV</content>
+  <content contentuid="h182d77b1g815fg3c85gf6eagc0f004c39513" version="1">拳腳功夫</content>
+  <content contentuid="h308356abg0f27g5a47g8cbegba942978337f" version="2">你追求在磨練武藝中臻至靈肉合一的完滿之境。你獲得所有相當於你角色等級的散打武僧職業能力。</content>
+  <content contentuid="hb777cc3cga203ge05ag132ege77aac41a6d6" version="1">元素之力</content>
+  <content contentuid="h10192609gce98g079ag1b6dg9cff214f773a" version="2">你力求引導身內身外的元素彼此調諧。你獲得所有相當於你角色等級的四象僧職業能力。</content>
+  <content contentuid="h33b70095ga9d8g5222g262eg7049914a7e3a" version="1">Monk II</content>
+  <content contentuid="h7f507a10g6e11gc41dg0b59gf7e8358c25d6" version="1">Monk IX</content>
+  <content contentuid="h04469d23gb374g4556gd9fdg0a6236dcef37" version="1">Monk I</content>
+  <content contentuid="h8b738c84gc979gc897gb653g94076b425d59" version="1">Monk III</content>
+  <content contentuid="h87818508g078fgf438g3e91gaf68e011e32d" version="1">Monk IV</content>
+  <content contentuid="h4255f29eg3e67gfcf3ge57eg856389b2d8e8" version="1">Monk V</content>
+  <content contentuid="hb3d399e7gaceag825dgddbdg468ab4dbce9b" version="1">Monk VI</content>
+  <content contentuid="hc598a344g65b3g2a04gd242gaa9b32302936" version="1">Monk VII</content>
+  <content contentuid="h901d28afg6dd4gf240g188bgd9b077d9a6b5" version="1">Monk X</content>
+  <content contentuid="hce96f029g55c9gf459g6b76g1c2d47dffff3" version="1">Open Hand I</content>
+  <content contentuid="hb23b6644g3fdegdff1g335egf6e4cb90d9c2" version="1">Elements III</content>
+  <content contentuid="h1028e8adg7a61ge58egb7a7ga7c7648191db" version="1">Open Hand VI</content>
+  <content contentuid="h6e8ab22fg6082ge09eg328cg80e1e9c176da" version="1">Open Hand IX</content>
+  <content contentuid="hde16750fgb60ag44f4g21bdga40e71b04c22" version="1">Open Hand XI</content>
+  <content contentuid="haf2be553g3f96g88b1g4d87g5acad69f29e6" version="1">Elements XI</content>
+  <content contentuid="hfdbc1fb7g3d7bge49fgfa75gede59b209795" version="1">Elements VI</content>
+  <content contentuid="hc4d2ffcegb73ag6b34g2c5agca6589c71d67" version="1">Elements IX</content>
+  <content contentuid="he9799482ge0a5gd34cg81b3ge1af209d59c0" version="1">Shadow III</content>
+  <content contentuid="h2fc7f7f1g1697g08c9gd3adg4bed5ab113f4" version="1">Shadow V</content>
+  <content contentuid="h34f67e5dgfa06g9416g987ag7eef79623e02" version="1">Shadow VI</content>
+  <content contentuid="h5148977egfacfg5433g0bd0ga000f0aaf962" version="1">Shadow XI</content>
+  <content contentuid="ha4458d88g68bfgf64ag9a3agd42ff404d010" version="1">暗影之道</content>
+  <content contentuid="h6f8d426ag067dg6c37gaa83geaa89b20f664" version="1">你在陰影的擁抱中獲得安寧。你獲得所有相當於你角色等級的陰影僧職業能力。</content>
+  <content contentuid="h7dbe92ccg01aeg3588g4306g20a53b2169e0" version="1">自知</content>
+  <content contentuid="hfaecaa93ged2egc925g4e4bg1567e6eebbef" version="1">你獲得了所有知識中最為寶貴的一條————那就是關於你自身的知識。</content>
+  <content contentuid="hc090412agb133gf341gee76gf94e611c6fd4" version="2">守護生命</content>
+  <content contentuid="h6b9631d4ga2e5g10b0g8b8cg0d70f03c8b8d" version="1">你致力於守護生命的神聖事業。你獲得所有相當於你角色等級的古賢之誓聖武士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hf47c2d75gd458g92a7g7758g79e3af1fafe4" version="1">Paladin I</content>
+  <content contentuid="hefad92f9ga225g09e5gf760g47b22e6c1367" version="1">Paladin V</content>
+  <content contentuid="h101fe42ag8711gd97bge0c5gac6d8dcde5a7" version="1">Paladin II</content>
+  <content contentuid="had31a8c2gc0c2gae37g336fg0b4c66730992" version="1">Paladin III</content>
+  <content contentuid="hae1e1488g2d7bgff86g61f3g24cf6944f43e" version="1">Paladin XI</content>
+  <content contentuid="hee5b007cg5566gd1abge09dg1760ea9e4b30" version="1">Paladin VI</content>
+  <content contentuid="h12aced5dg8688gcafcg6fcbge8ba7dd5ea92" version="1">Paladin X</content>
+  <content contentuid="h13e95a5dg2623g5f40g17a2gc18da1bc601a" version="1">Ancients I</content>
+  <content contentuid="hc7eaa4adg15ffg22fcg5b68g462b0b328ec5" version="1">Ancients III</content>
+  <content contentuid="h580906c3ge37eg75b4g4f7dge40be83ace6f" version="1">Ancients VII</content>
+  <content contentuid="hdb21b6a1gac64g9c2egdb2eg181b971befff" version="1">Devotion I</content>
+  <content contentuid="hbc2f080bg7d0bge265ge115gf2caaf245c1d" version="1">Devotion III</content>
+  <content contentuid="h744e5859g8e64g84a5g40bcg4387e46326a3" version="1">Devotion VII</content>
+  <content contentuid="h882f7d32ga8b1gde95g174eg94a0797964eb" version="1">Vengeance I</content>
+  <content contentuid="h37a64dcaga0f9g1360g4844ga0acfc003836" version="1">Vengeance III</content>
+  <content contentuid="he650c731g1002gaf7cg85abgde3b5759a9c8" version="1">Vengeance VII</content>
+  <content contentuid="hf077fb75gf23eg6440g5eb5gd918adfcb4ab" version="1">榮譽正義</content>
+  <content contentuid="h1798cb35ga24dgc3f3g091cge89d0ef46585" version="1">你致力於追求正義的神聖事業。你獲得所有相當於你角色等級的奉獻之誓聖武士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="ha19ea2dfg8d12g04dcg6ec8g40a46b3ba987" version="1">懲戒邪惡</content>
+  <content contentuid="h291db205g7c37g60e3g729fge3e3505dc0ec" version="1">你致力於懲奸除惡的神聖事業。你獲得所有相當於你角色等級的復仇之誓聖武士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h6aa01e32gc6e0g65bdgc50bg788bea45cd15" version="1">隨心所欲</content>
+  <content contentuid="hea290f60ga102g1abeg76f5g5edd07b0ece4" version="1">你對於教條誓約的束縛不感興趣。</content>
+  <content contentuid="h63b3f69cg133egfb7eg7f01g2706a0780f14" version="1">直面獵物</content>
+  <content contentuid="h68cea3c6g319ag77fdgacb8g1063902ea983" version="1">你在捕獵時更偏向於正面狩獵。你獲得所有相當於你角色等級的獵人遊俠職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h6599eee0gae8dg627bgea93gc1739e8fff51" version="1">動物伙伴</content>
+  <content contentuid="h2e3ca009ga7acg0e78g942dgb942a56a54c8" version="1">你在捕獵時更偏向於依賴動物伙伴的幫助。你獲得所有相當於你角色等級的馴獸大師遊俠職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h36b6f277gc572gce0bgca61g752ad4dee1f2" version="1">陰影追蹤</content>
+  <content contentuid="h528c9171gc37dgb296g13a5g5eb667cf9dcd" version="1">你在捕獵時更偏向於從暗中突襲獵物。你獲得所有相當於你角色等級的暗影追蹤者遊俠職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h2851db52g5690geb5cgb9bdg6287ba12574a" version="1">無意狩獵</content>
+  <content contentuid="h78ec48f2gb836gdce7gd5ccgddef6985e9f4" version="1">明明用錢就能買到獵物，為什麼會有人喜歡狩獵這項運動，你不明白。</content>
+  <content contentuid="h2371461bgc768g3b7fg28fag168adf934411" version="1">無偏好</content>
+  <content contentuid="h5ad540a7gb3dag2039g2a2aga92009d1fdf6" version="1">你沒有什麼特別擅長對付的敵人。</content>
+  <content contentuid="hfc480215gcb9dg61f7g7f34gec50483dd389" version="1">宅</content>
+  <content contentuid="hf51dfdf6g7f37g51a4g98a9g32592d7e8eed" version="1">比起在那些密林、荒原和冰雪中跋涉，你更喜歡家中溫暖的爐火。</content>
+  <content contentuid="h5f367a61gb059g4b3bg762ag2cbe4dba7a1d" version="1">無偏好二</content>
+  <content contentuid="h5c12b5beg2965gf923gbba7g111aa6233fd3" version="1">你沒有什麼特別擅長對付的敵人。</content>
+  <content contentuid="h412fcee7ge174g4193g6ec0g645a2fcf1952" version="1">無偏好三</content>
+  <content contentuid="h4fe1dbe5g598bgfdbeg4c6bg02cbed81c5b9" version="1">你沒有什麼特別擅長對付的敵人。</content>
+  <content contentuid="hb6f03302ga482g046eg64abg662df89598ac" version="1">宅二</content>
+  <content contentuid="h7075221cg354ag6c0fge334g6b5e20aeb6d6" version="1">比起在那些密林、荒原和冰雪中跋涉，你更喜歡家中溫暖的爐火。</content>
+  <content contentuid="h4739fd92ga6d6g0165g9112ga6792ac9bffa" version="1">宅三</content>
+  <content contentuid="h931e6e5cg1569g29dag0c31g96385d0128b9" version="1">比起在那些密林、荒原和冰雪中跋涉，你更喜歡家中溫暖的爐火。</content>
+  <content contentuid="hc3c12315g848bg91f8g3476ge285aad8d320" version="1">Ranger V</content>
+  <content contentuid="he59dea28gf702g8520g98cfg8372030d1a36" version="1">Ranger VIII</content>
+  <content contentuid="h1e8293c2g3c05g63f6g7344g04788f59c33b" version="1">Ranger X</content>
+  <content contentuid="h798907e8g1c49g2fcbg27aeg58be4912e124" version="1">Hunter XI</content>
+  <content contentuid="h8ed25dcbgcf1bg0687g8c80ge05fea0e7410" version="1">無目標</content>
+  <content contentuid="hd4d1ecd2g5042g74e4g24edg0a5fbfeb736e" version="2">你所受的訓練非常泛用，並不是為了針對某一特定威脅而進行的。如果你選了“直面獵物”，請不要選擇此項。</content>
+  <content contentuid="h9521e0bcg313dg3436g4f20gd0ff62b54ee4" version="1">傳統戰法</content>
+  <content contentuid="h07fa6fd6g5e21g116eg30afg8f06a6938c1f" version="2">比起獵人們多變的防禦策略，你更偏向於使用傳統的防禦手段。如果你選了“直面獵物”，請不要選擇此項。</content>
+  <content contentuid="hc3bf00ccg3c66g12a0g57c3ge74d32627118" version="1">盜竊</content>
+  <content contentuid="hb41d5480g4eb3g7127geb07g7fc13b08c281" version="2">你對如何悄悄從其他人那裡獲取物品頗有心得。你獲得所有相當於你角色等級的盜賊遊蕩者職業能力。</content>
+  <content contentuid="h8d595f62g15e7ge74dg711ag8cd0bdcffaa4" version="1">魔法技倆</content>
+  <content contentuid="h632ec8c4g9f45gc46fg80e9gdf150503f1a2" version="2">你更喜歡在各種犯罪行動中加一點小小的魔法花招。你獲得所有相當於你角色等級的詭術遊蕩者職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h1e144f61g2eedgc75cgf89ag1f78cc751676" version="1">殺手</content>
+  <content contentuid="h79c3ede0g8a59g4d69g914cge2fdb08a41d4" version="1">你的任務是乾淨利落地解決目標，騎士榮譽什麼的又不能當飯吃。你獲得所有相當於你角色等級的刺客遊蕩者職業能力。</content>
+  <content contentuid="h6f278242g89e7g5739g49afg75709b0a303c" version="1">遵紀守法</content>
+  <content contentuid="h4be4de73g1b74g78d7g545ag3dd6ad359ddb" version="1">你對犯罪世界還不甚了解，也沒有興趣。</content>
+  <content contentuid="ha5a83cefg135eg3cbbgdc0dg0eb619edae0e" version="1">Beast III</content>
+  <content contentuid="hd510952ag9752gb578gca0dg5735d0f99e26" version="1">Beast V</content>
+  <content contentuid="h4db7c85ag95d5ga5efgcc6cgbe976111b4f8" version="1">Beast VII</content>
+  <content contentuid="h8b66374bga312g6ee8g25f3gdab8c338040d" version="1">Beast XI</content>
+  <content contentuid="h349aec2dgd151gf815g0adbg5899630d66d9" version="1">Gloom III</content>
+  <content contentuid="heba2ef4fg0104g1a62g34a4gfd2576ac0dfd" version="1">Gloom VII</content>
+  <content contentuid="h32356b5ag1967ge338g2b05g7d8be52b036f" version="1">Gloom XI</content>
+  <content contentuid="had133570g6771g34eage63bg679f60adf47a" version="1">Rogue I</content>
+  <content contentuid="h49951fe4g94c5ga59bge742gc64f54454290" version="1">Rogue II</content>
+  <content contentuid="he32071beg274bg9110g789dg8679c77f25ec" version="1">Rogue V</content>
+  <content contentuid="h5ad2635bg4c4cg4f69ga5b5g8988fdbb5326" version="1">Rogue VII</content>
+  <content contentuid="h7f3acc03g395fgecc6g607eg108a3f41f4ad" version="1">Rogue XI</content>
+  <content contentuid="hfe0075fagbc0cg7ff0gf1d3g92ee86afd7f8" version="1">Trickster III</content>
+  <content contentuid="h018e371ag50a6ga052g47b2g79fd0a7668a7" version="1">Trickster IX</content>
+  <content contentuid="hba620d08gd1cbg9900g9a65gf0b8a4c21e80" version="1">Thief III</content>
+  <content contentuid="hb32699b5g9448gf757g730bg4fa99b50e3f5" version="1">Thief IX</content>
+  <content contentuid="h9c482667gc50eg305dg71f5ga50459582948" version="1">Assassin III</content>
+  <content contentuid="hd77ed174g3b46g1ea9gfe11gacfd9a5f1358" version="1">Assassin IX</content>
+  <content contentuid="hbce5c481ge7a9gf299gc059g4a104e237073" version="1">Sorcerer I</content>
+  <content contentuid="hd22d5f5cgdf98g3193g6691gef5aa19d6237" version="1">Wild Magic I</content>
+  <content contentuid="h5153cba2gfeb8gd8b2ge48fg6a76062be10f" version="1">Warlock V</content>
+  <content contentuid="h267101aeg589bg4b3agf0a7g7ee083140eb4" version="1">Wild Magic VI</content>
+  <content contentuid="hbd586712gef5fg30f0g01f3g251a4fd63cb9" version="1">Wild Magic XI</content>
+  <content contentuid="hd550e174gbd46gc816g96a1g2d92b0a38a54" version="1">Draconic Bloodline I</content>
+  <content contentuid="hdc7b4f96g24a1g9e7ag66a9gd26efbeabc4d" version="1">Draconic Bloodline VI</content>
+  <content contentuid="h7efc7859ga04fgc692ga3d2g70bb224c56a7" version="1">Draconic Bloodline XI</content>
+  <content contentuid="h55337807g688fga7aeg810bg1e90e8d8b86f" version="1">Storm Sorcery I</content>
+  <content contentuid="h9aebb7d3gc397gf783g3314g9dc31612a396" version="1">Storm Sorcery VI</content>
+  <content contentuid="h038ac9a7g72e5g731dg6b8eg112a7b4c5619" version="1">Storm Sorcery XI</content>
+  <content contentuid="h8d02f829g8e12gebb9g3779g18485d3fa5df" version="1">Fiend I</content>
+  <content contentuid="he383df52ge711g4c87gc59fgd8e549647a25" version="1">Fiend VI</content>
+  <content contentuid="h1d06593cgdc94gef14g0e5ag44de4c4c7b07" version="1">Fiend X</content>
+  <content contentuid="hab196818g6233g0f80gbff5gf84be7c763b8" version="1">Great Old One I</content>
+  <content contentuid="h43b0f26bg4841gfe2dga8f7g447ef33f9447" version="1">Great Old One VI</content>
+  <content contentuid="h272a7432gd86eg812dg4f2cg7fa1f480d9ad" version="1">Great Old One X</content>
+  <content contentuid="h9f1d54c3gb7f0gaa89gd0bdg9cb6ebe0cd05" version="1">Archfey I</content>
+  <content contentuid="h527780a3gcab9gdf95geb58g396ebb8ee309" version="1">Archfey VI</content>
+  <content contentuid="h8301c5c0gebecg4c7ag3e88g8eb364b8f04c" version="1">Archfey X</content>
+  <content contentuid="h8263de2eg5750g9b63g1473g9841363e5376" version="1">你對於跟此列表中其他動物建立聯繫不感興趣。如果你選了“野性之心之道”，請不要選擇此項。</content>
+  <content contentuid="h2b58592dga085g3993g48ecgb56048d869c1" version="1">狂野魔法</content>
+  <content contentuid="h0a75eb24gdd72ge62fgc8c6g93bbe2a48a01" version="1">你的血脈中流淌著混亂的魔法潛能。你獲得所有相當於你角色等級的狂野魔法術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h53bccac3g1404g3300g32f8g52d41748b15c" version="1">龍族血脈</content>
+  <content contentuid="h8bc0b2aeg6adcg6b68g9376g78e16c253957" version="1">你的祖先曾是一頭巨龍。你獲得所有相當於你角色等級的龍族血脈術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hd2eecaa5gd065g7c78g3673gefe74f55b69c" version="1">風暴魔法</content>
+  <content contentuid="h516bdbaegf88dgf3f6gac14g5ed983182a17" version="1">你的血脈中流淌著古老風暴的本質。你獲得所有相當於你角色等級的風暴魔法術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h1860d41cgeac8gcbbdg7082gafaa773cd83f" version="1">平凡血脈</content>
+  <content contentuid="hb1f60eeegd809gd09dgc61cg256448134068" version="1">你的血脈沒有什麼特別之處。</content>
+  <content contentuid="hadaa4a62g62b4gb0a1g0545g3a0b843a8109" version="1">非龍族</content>
+  <content contentuid="ha2565bb9gc619gb707g390cge99e8a81f55e" version="1">你跟龍族沒什麼血親關係。</content>
+  <content contentuid="hded30e44ga2acg7627g8e3dg04eed8ff4c34" version="1">傳統魔法</content>
+  <content contentuid="h32be8ebcg9171g82beg5da3gb4b713fe2722" version="1">你並不擅長通過超魔技巧操縱法術。可疊加。</content>
+  <content contentuid="he8bbbe16gd6dbg5dfeg60bdg742bfbca04e7" version="1">煉獄</content>
+  <content contentuid="h9279b480g9e19g376bgd23cg99b85267b922" version="1">你跟下層界位面的強大魔族建立了契約。你獲得所有相當於你角色等級的煉獄契術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h7e80fb80g5904g5eceg9771g1c7f413ce752" version="1">傳統魔法二</content>
+  <content contentuid="h694797c1g2460ga2dag727bg18ede09191d0" version="1">你並不擅長通過超魔技巧操縱法術。可疊加。</content>
+  <content contentuid="h31479f01g8bebg8752g6dcege92919e85007" version="1">傳統魔法三</content>
+  <content contentuid="h7ba97536gafcbg6588g9035g4d9811b3d04a" version="1">你並不擅長通過超魔技巧操縱法術。可疊加。</content>
+  <content contentuid="h5eab0cf1gf4c9g9fd8gd53ag5e8e715cfce1" version="1">傳統魔法四</content>
+  <content contentuid="h82c5c56egc8cag5333g4742g50d339e4de59" version="1">你並不擅長通過超魔技巧操縱法術。可疊加。</content>
+  <content contentuid="hfb8056d1g5430g8b0fg6bd2gff62b121d22f" version="1">大妖精</content>
+  <content contentuid="hf8d36458g2e7dga130ga52cg48757fdf912d" version="1">你與某位妖精領主建立了契約。你獲得所有相當於你角色等級的大妖精契術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h3321fdb5g907dg4c8ag5aacg54195b27880c" version="1">舊日支配者</content>
+  <content contentuid="haf19076cgc87cgaf02g4499g3767b586cca7" version="1">你與某位不可名狀的存在建立了契約。你獲得所有相當於你角色等級的舊日支配者契術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hb72a6f0fg6354g41c9g95d2g4e5fd506df31" version="1">無契約</content>
+  <content contentuid="hb3f7b217g9d19g45cbg460cgacb5759bb62f" version="1">你對於跟那些奇奇怪怪的實體訂立契約不感興趣。</content>
+  <content contentuid="h1900e601g7014g1e8dg0224g0ff207a6f68b" version="1">死亡法陣</content>
+  <content contentuid="h8ee2f0e5g40c7g73c8gb01cga2cbcac7747a" version="1">你的宗主會在11級賜予你“死亡法陣”作為你的玄奧秘法。</content>
+  <content contentuid="hda228474g4dc3g39cag1478g997a28a571cc" version="1">無秘法</content>
+  <content contentuid="h4bb5cb97gccecg3993g2a10gabfa63b07807" version="1">你沒有宗主，所以也就沒有秘法。</content>
+  <content contentuid="he724f833g74dfgb2e5g67f1ge613e0c76add" version="1">奧法門</content>
+  <content contentuid="hb4b55444g8fe1gd2c4g898fg6d20731965e1" version="1">你的宗主會在11級賜予你“奧法門”作為你的玄奧秘法。</content>
+  <content contentuid="hfaf5154bg9c51gabd7g07ddg21d57476845e" version="1">攝心目光</content>
+  <content contentuid="h4ccb8e61g0826g2417g73f8g70c457035828" version="1">你的宗主會在11級賜予你“攝心目光”作為你的玄奧秘法。</content>
+  <content contentuid="heb070b25g6c4bg4c39g3436ga9030c855e62" version="1">石化</content>
+  <content contentuid="hb9ecef80g8c70g312egb5degeae58710d4be" version="1">你的宗主會在11級賜予你“石化術”作為你的玄奧秘法。</content>
+  <content contentuid="hb7e814bag3bf4gbc95g8495g4ab0710f8d6d" version="1">創造不死生物</content>
+  <content contentuid="h3160f179gd402gfcbcga9bcg9489b41d25a9" version="1">你的宗主會在11級賜予你“創造不死生物”作為你的玄奧秘法。</content>
+  <content contentuid="h5b2ad894gd4a2gd178ga97eg183b0805ba5a" version="2">無魔契</content>
+  <content contentuid="h4c9172eag8679ga545g18c5g575ad23f9478" version="1">你沒有宗主，所以也就沒有魔契。</content>
+  <content contentuid="hc4c81e50gd594gc237g1513g191d865bea9e" version="1">拒絕</content>
+  <content contentuid="he0a14f70g0011g8974gbbb7gf7a94e4fc779" version="1">你拒絕那些奇怪的實體對你的肉體和靈魂產生影響。可疊加。</content>
+  <content contentuid="h793790aeg538fg5120g6692gcc1e55d163b2" version="1">拒絕二</content>
+  <content contentuid="hfe354bb7g70ddg4e20gf265g3bdc4b3ad89d" version="1">你拒絕那些奇怪的實體對你的肉體和靈魂產生影響。可疊加。</content>
+  <content contentuid="h002a185eg7c9fgbdd9g9b3eg361cf3927e42" version="1">拒絕三</content>
+  <content contentuid="h9a377b3cg6212ge13egf18ega0a4c4024da9" version="1">你拒絕那些奇怪的實體對你的肉體和靈魂產生影響。可疊加。</content>
+  <content contentuid="h0eb0c2a4g7efcgdd11g60f6g6aa5679e1961" version="1">拒絕四</content>
+  <content contentuid="h71535632g0414g0ff8g238cg0fe96540e8df" version="1">你拒絕那些奇怪的實體對你的肉體和靈魂產生影響。可疊加。</content>
+  <content contentuid="hbfc280a9gb3e3ga6d2g070dg5d1b504f81d9" version="1">拒絕五</content>
+  <content contentuid="hc29fdaf3gcc89ge2c2ge255ge24cfb497f51" version="1">你拒絕那些奇怪的實體對你的肉體和靈魂產生影響。可疊加。</content>
+  <content contentuid="h5b0206f5ge8e1g4108ge743g047174a278e6" version="1">拒絕六</content>
+  <content contentuid="h7b1ccd45g04d3g941fgbc9eg7684e2d60900" version="1">你拒絕那些奇怪的實體對你的肉體和靈魂產生影響。可疊加。</content>
+  <content contentuid="h6356187bg6e2ag42c2g1ee9g344702b2b882" version="1">Wizard I</content>
+  <content contentuid="hdf2add1bg1886g0f72g3d2dga84a51201cc9" version="1">Abjuration II</content>
+  <content contentuid="h7f8590eag7e7dga7b2g149agd2deac98c84d" version="1">Abjuration VI</content>
+  <content contentuid="h4cee21beg13c1g9cddgcc9cg6f81494f4dbb" version="1">Abjuration X</content>
+  <content contentuid="h197a8217gffedg48b0g208fg2b209547ff35" version="1">Conjuration II</content>
+  <content contentuid="h666a3bb8gc702g67d6g5a61gbfb6a69fff82" version="1">Conjuration VI</content>
+  <content contentuid="h40ed2979gdfd6g80aegfcebg38cdc4eaa974" version="1">Conjuration X</content>
+  <content contentuid="hdc137d54gd077g72d1g2101g6c94d7b0e261" version="1">Divination II</content>
+  <content contentuid="h8aea130bgd8acg7e0bg0cabgbf1e8c54a909" version="1">Divination VI</content>
+  <content contentuid="h722d598dge009ga27fg5975g5008b2ba1c45" version="1">Divination X</content>
+  <content contentuid="h4786c1dfg2874g65f4ga0d4g476791136deb" version="1">Enchantment II</content>
+  <content contentuid="h9fa84428gca87ge373g2b25ga3bf008e0014" version="1">Enchantment VI</content>
+  <content contentuid="hc557c36eg6b08ge84cge92cg6321ff1b87ff" version="1">Enchantment X</content>
+  <content contentuid="h51e1cb3fgb0e1gfe51g19e7g266b0d68c71a" version="1">Evocation II</content>
+  <content contentuid="hcf3b5e59g1793g07cag3fdag95e4981fb668" version="1">Evocation VI</content>
+  <content contentuid="he0bf4c5fgeda0gb658gbc45g813de173e3f3" version="1">Evocation X</content>
+  <content contentuid="h8bdbc7eeg11d1g91ddgf664g605b9f7f5eb6" version="1">Transmutation II</content>
+  <content contentuid="h0043adf9g1df8g15a8g2ad7gc4ba71c6d7e4" version="1">Illusion II</content>
+  <content contentuid="hab0200a6g9106g99bag1849ga0cbf2163816" version="1">Illusion VI</content>
+  <content contentuid="hb375ce53g463cg241bgff96ga0dc1ae83b4b" version="1">Illusion X</content>
+  <content contentuid="h65c97b1dgc74cgb00bg1c15gc1aec4af6d8b" version="1">Necromancy II</content>
+  <content contentuid="hb30a37d2g910cgbd72g98f2gd901dc3ac865" version="1">Necromancy VI</content>
+  <content contentuid="hd675dbefg5431g1c4age6fdgb1fa319bca9d" version="1">Necromancy X</content>
+  <content contentuid="hc15a4a39g15fbg4b1dg2d6fg99bcfa028e04" version="1">Transmutation VI</content>
+  <content contentuid="ha4fc86e5g5952g10beg9862g0a2a4703a66d" version="1">Transmutation X</content>
+  <content contentuid="hfe972147ge200gd352g6d7eg6c16dc158e26" version="1">防護系</content>
+  <content contentuid="h268506ddgf691gac59g2849gd783aacc7a22" version="1">你對防護系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的防護繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hce872808g1a1ag0b5fg18f3g618b1dd7b53e" version="1">非學術</content>
+  <content contentuid="h449eeae1g732agb606gb08dgbad09e5d1cd7" version="1">你對學術魔法不感興趣。</content>
+  <content contentuid="h2560e958g024cgf69dgc23ag7418b997f744" version="1">咒法系</content>
+  <content contentuid="h2d7ef075g6650gdb86g5c5dg846866047000" version="1">你對咒法系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的咒法繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hdaf1d248g0b8aged30gc9b6gdc022b140b48" version="1">預言系</content>
+  <content contentuid="h78a60792g2c18g2453g899bge192a25bddc5" version="1">你對預言系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的預言繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hd1f6abcag17bfgd741g3900g3996ef867567" version="1">惑控系</content>
+  <content contentuid="h7cf840c8ge1ddg1ebeg216dgf4c80f8d924e" version="1">你對惑控系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的惑控繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hbe48cf82g4174gc097gb1c6gabd4c39ea488" version="1">塑能系</content>
+  <content contentuid="h016272b4g8d34ga6f0gc458g2b5a3ef0091e" version="1">你對塑能系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的塑能繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h2ced3c3cg275cg677bg7646g8a0706f0d1c5" version="1">幻術系</content>
+  <content contentuid="h6e37a402g59a3g9f14g4b2agb9ba0d3689f2" version="1">你對幻術系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的幻術繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h10d3dccbgb388gd750g65abg66d150d3e0a6" version="1">死靈系</content>
+  <content contentuid="h1668a128ga0bbg5fc0g47f0ga0d5593c3d28" version="1">你對死靈系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的死靈繫法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="hf378f3degf6f8gd374g5d92g88fb1e74bc69" version="1">變化系</content>
+  <content contentuid="heec4e9e6gbad6ge19bge6fag060babd338d2" version="1">你對變化系的魔法有較高的學術興趣。你獲得所有相當於你角色等級的變化系法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h6e8353e8g6614g724bg3b38gaa549bcbe2fb" version="1">Land II</content>
+  <content contentuid="h8834a90cg8ae9ge82ag918ag27725138c443" version="1">傳統策略</content>
+  <content contentuid="h9c1dad37gd40fgfcf0g5071g9ce25d119304" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="h180c3611g48c2g594agaaacg0d622eb78183" version="1">傳統策略二</content>
+  <content contentuid="h8b197ee2g756cg04ddg5c3cgb0b9695f3a3d" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="h30e55ce6g9ab2gec55g2ff6g180061b46297" version="1">傳統策略三</content>
+  <content contentuid="hd9303f2dg4a44g74d8gd229g4bf881824b0c" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="h4fe13387g9bebgf3a3gfed4g2162998b5816" version="1">傳統策略四</content>
+  <content contentuid="h2dc9db69ga552gf1eagd0e8gc90d5a4844a5" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="hf6d81f74g8b8eg9762g8276g54374a18984c" version="1">傳統策略五</content>
+  <content contentuid="h64024f1bgb65fg2a2ag7197gb9a897bbc21a" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="h907d4ee3ged5ag8fdag834egd7ef2f94e8f8" version="1">傳統策略六</content>
+  <content contentuid="h79296d56gee17g815bg94d5g5fe4e4acbab8" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="h65abbccdg4c93g085ag52a9ga2cbf99dc818" version="1">傳統策略七</content>
+  <content contentuid="h00e890bbg8ce7gbd4cg795dg53585d1954f6" version="1">你對於花裡胡哨的戰技不感興趣。可疊加。</content>
+  <content contentuid="h20176e7eg4866g2757gb13dg987cec8932d6" version="1">共生實體</content>
+  <content contentuid="h5aa3179bgbe23g1f86g0192g75a9ddcec1db" version="1">受影響個體獲得[1]。&lt;br&gt;&lt;br&gt;只要該個體擁有&lt;LSTag Tooltip="TemporaryHitPoints"&gt;臨時生命值&lt;/LSTag&gt;，則近戰武器攻擊和徒手攻擊額外造成[2]，同時&lt;LSTag Type="Spell" Tooltip="Target_HaloOfSpores"&gt;環形孢子&lt;/LSTag&gt;造成的傷害加倍。&lt;br&gt;&lt;br&gt;如果該個體使用&lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;荒野形態&lt;/LSTag&gt;，則效果提前結束。</content>
+  <content contentuid="h36b9804bge324g2c46g79aagf63f776f54e1" version="1">奧術守禦</content>
+  <content contentuid="hce25db3cgf029g1f97g7b6cg811643995cb5" version="1">你施放法術的剩餘魔力會在你周圍形成一個防護區域，保護你免受傷害。</content>
+  <content contentuid="hdd3893a1g33ffgaa4dg9a7ag690c9fc2985a" version="1">你每次施放防護學派法術，奧術守禦都會提升等同於法術環數的層數。&lt;br&gt;&lt;br&gt;你每次受傷時，奧術守禦都會抵消等同於其層數的傷害，然後層數降低[1]。&lt;br&gt;&lt;br&gt;每次你&lt;LSTag Tooltip="LongRest"&gt;長休&lt;/LSTag&gt;之後，奧術守禦的層數會重置，等同於你的法師等級。</content>
+  <content contentuid="h80c29f59ge492gcd08g9206g09b896ffa807" version="1">%%% Arcane Ward Helper</content>
+  <content contentuid="hdbe93d9egc53eg5d04g2423gfae021fbd741" version="1">精通防護</content>
+  <content contentuid="h69de1f20g7da1gafc7g21e2g7639069366c8" version="1">每次你進行&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;時，你的 &lt;LSTag Type="Passive" Tooltip="ArcaneWard"&gt;奧術守禦&lt;/LSTag&gt;會增加與你法師等級數值相等的強度。</content>
+  <content contentuid="h88d66f73gf860g4257ge739g4eb7fbe31d01" version="1">風暴之心</content>
+  <content contentuid="hca5ba976g6805ge49bge32egf1da1a0dcfa8" version="1">當你施展一個造成閃電或雷鳴傷害的1環或以上的法術時，可以生成一場小型的局地風暴。[2]範圍內的所有敵人會受到[1]或[3]。</content>
+  <content contentuid="h161a03f4g3ea2g3369gc067gd195c4c34346" version="1">風暴之怒</content>
+  <content contentuid="h4cdf5621g361eg064bg412agd50361354c64" version="1">被一次近戰攻擊命中時，你可以對攻擊者造成[1]，同時有可能將其推離。</content>
+  <content contentuid="hff98553eg74eeg28c5g37b5gddf9da498bf0" version="1">共生實體</content>
+  <content contentuid="h73d41e5agfa1fgb5feg2443ga5c1b59f3ae9" version="1">獲得[1]並在處於該狀態下時額外造成[2]。施放的&lt;LSTag Type="Spell" Tooltip="Target_HaloOfSpores"&gt;環形孢子&lt;/LSTag&gt;傷害加倍。</content>
+  <content contentuid="h3f747ee0g947egc297g0178g8a5691aafe11" version="1">風暴之心：閃電</content>
+  <content contentuid="h4d737075gc879g7da9g2632geaf0e9f56843" version="1">當你施展一個造成閃電傷害的1環或以上的法術時，可以生成一場小型的局地風暴。[2]範圍內的所有敵人會受到[1]。</content>
+  <content contentuid="ha40207f5g6792g32e0g40e2g259dd1861ffc" version="1">風暴之怒</content>
+  <content contentuid="h28c21fc9g8cffga14fg952egf6460da279a6" version="1">造成[1]，同時有機率推離攻擊者。</content>
+  <content contentuid="h6ed88da1gaf70g4f17gf173g9b83e96ff8a2" version="1">風暴之心：閃電</content>
+  <content contentuid="hdaef702fgc376g2db8ga5a4g9934ed83e555" version="1">製造電流和閃電大爆炸。</content>
+  <content contentuid="he18a742fg348eg5961g2607g88ab9b340d53" version="1">風暴之心：雷鳴</content>
+  <content contentuid="he319826cg534agfcf1gdd7bg3c61886de284" version="1">製造雷鳴大爆炸。</content>
+  <content contentuid="h88f14a59g9e70gc99dg3ed1gc5dce27ab0ce" version="1">回氣</content>
+  <content contentuid="hf973c9bdge8aegbd57g90cdgc50a0a94a37c" version="1">消耗體力治癒自己。</content>
+  <content contentuid="hf9ee0b2cgeb2eg56bag36f6g1380efbc4c09" version="1">混元體</content>
+  <content contentuid="hd6c4efe0g428aga574ga219g5a8449ae0eb4" version="1">恢復一半&lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;氣點&lt;/LSTag&gt;，進入臨時的&lt;LSTag Type="Status" Tooltip="WHOLENESS_OF_BODY"&gt;混元體&lt;/LSTag&gt;狀態：恢復氣點並獲得一個額外的附贈動作。 </content>
+  <content contentuid="hf49ef965g6431g9075g08dcg03cc9a5f8dc5" version="1">荒野形態：獾</content>
+  <content contentuid="hecf3b63fg766ag6109gc60fg9b17466078a0" version="1">變身成巨獾的形態，獲得在地面&lt;LSTag Type="Spell" Tooltip="Target_Burrow_GiantBadger"&gt;打洞&lt;/LSTag&gt;的能力。巨獾初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h244923b0g079dg5c1dgf64aga1361ab83932" version="1">荒野形態：熊</content>
+  <content contentuid="hee8ec2d8g7070g1e6dg3865g39a565184cbc" version="1">變身成極地熊的形態，可以&lt;LSTag Type="Spell" Tooltip="Shout_GoadingRoar_Bear_Summon"&gt;嘲諷&lt;/LSTag&gt;敵人朝自身發動攻擊。極地熊初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h6a35efd6ge05fg91b2g2a28g8d07bfb047dc" version="1">荒野形態：地底洛斯獸</content>
+  <content contentuid="h7dd69a15gfe99g7cf6gb67dg8cba5cc812ae" version="1">變身成地底洛斯獸的形態，可以施展&lt;LSTag Type="Spell" Tooltip="Target_DancingLights"&gt;舞光術&lt;/LSTag&gt;以及朝敵人發起&lt;LSTag Type="Spell" Tooltip="Rush_Rush_DeepRothe"&gt;衝鋒&lt;/LSTag&gt;。地底洛斯獸初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h4835f4fagf815g2833g01c0g826eb10e3baf" version="1">荒野形態：蜘蛛</content>
+  <content contentuid="h3e978bb7gaa9eg5eb4ga2d1g47e50df2666b" version="1">變身成巨蜘蛛的形態，可以將敵人&lt;LSTag Type="Spell" Tooltip="Target_Web_Spider"&gt;網縛&lt;/LSTag&gt;。巨蜘蛛形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h2313a4d2gd8ffgafe7g8026g96ce1923bfbc" version="1">荒野形態：狼</content>
+  <content contentuid="hc5109bf7gd797g2ab0g20e2g4aa62f8761ef" version="1">變身成恐狼形態，可以&lt;LSTag Type="Spell" Tooltip="Shout_PackHowl_Wolf_Dire"&gt;鼓勵&lt;/LSTag&gt;盟友，讓敵人&lt;LSTag Type="Spell" Tooltip="Target_Bite_Wolf_Dire_Wildshape"&gt;分心&lt;/LSTag&gt;。恐狼形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h08bf31b4gdec5g2365g15ecgf007d9b38b35" version="1">荒野形態：劍齒虎</content>
+  <content contentuid="hdbfc750cgce43gfaf0g9975g781644013818" version="1">變身成劍齒虎的形態，它可以施展&lt;LSTag Type="Spell" Tooltip="Target_RipandShred_SaberTooth_Tiger"&gt;破甲撕裂&lt;/LSTag&gt;以及&lt;LSTag Type="Status" Tooltip="REGENERATION_SABERTOOTH"&gt;恢復&lt;/LSTag&gt;生命值。</content>
+  <content contentuid="h92ec4839g80c4gfecdg866fg337ca957f501" version="1">劍齒虎形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h4eb2b4c8gbe42g0958g6b5dgd3de7322c10c" version="1">荒野形態：黑豹</content>
+  <content contentuid="h089686e3g8814g6634g2608gbdc298bf60db" version="1">變身成黑豹的形態，它可以無形地在周圍&lt;LSTag Type="Spell" Tooltip="Shout_Prowl_Panther"&gt;潛行&lt;/LSTag&gt;。</content>
+  <content contentuid="h79e287eegb198ga97bg34abg0b012e9ac29d" version="1">黑豹形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h5ce54c96gc465gf2f5ge795g59bdcfd35a7b" version="1">荒野形態：雙脊龍</content>
+  <content contentuid="h97ef13d8g42bfgd334g2239gd936095e6248" version="1">變為雙脊龍的形態。它的&lt;LSTag Type="Spell" Tooltip="Projectile_CorrosiveSpit_Dilophosaurus"&gt;腐蝕唾液&lt;/LSTag&gt;能夠溶解一個目標的&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;。</content>
+  <content contentuid="he404220fga5f9g1055gc266g77fbd636e534" version="1">雙脊龍形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="h960958deg5540g4f94gfb00ge09ee1372943" version="1">荒野形態：梟熊</content>
+  <content contentuid="h13c15d68g1862g92a0gf455ge070831f3cc2" version="1">變身成梟熊形態，它可以施展&lt;LSTag Type="Spell" Tooltip="Shout_Owlbear_Wildshape_Smash"&gt;裂地&lt;/LSTag&gt;以及進入&lt;LSTag Type="Spell" Tooltip="Shout_Owlbear_Wildshape_Enrage"&gt;激怒&lt;/LSTag&gt;狀態。</content>
+  <content contentuid="h139f5087g9c32g1fe0g11c9gc0ba29ad1bd8" version="1">梟熊形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。</content>
+  <content contentuid="he7e1d967g803eg8136g5aa3gec9c8759bde6" version="1">荒野形態：風元素執政官</content>
+  <content contentuid="h165f5da9g1e40g3392g9c8agc95f3d62c432" version="1">變身為風元素執政官的形態。 </content>
+  <content contentuid="h57a3c63eg3f01g4db5g4e4fgbb387507a67d" version="1">Your air myrmidon shape has a starting health of [1] that increases every two druid levels. It can cast &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibility&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_LightningStrike_Myrmidon_Air"&gt;Electrified Flail&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_RagingVortex_Myrmidon_Air"&gt;Raging Vortex&lt;/LSTag&gt;.</content>
+  <content contentuid="h9c085515gfde1g6ec4gbf8cg17d893fbd75b" version="1">荒野形態：土元素執政官</content>
+  <content contentuid="hbfef4e1eg9837g7679gd05ag17d19a3b2ec6" version="1">變身為土元素執政官的形態。 </content>
+  <content contentuid="h4b7ef9c0gaf4dg2292gfbb1ga1bc66ba390d" version="1">土元素執政官形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。它可以施展&lt;LSTag Type="Spell" Tooltip="Shout_MetalCoating_Myrmidon_Earth"&gt;點泥成金&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_MudSlap_Myrmidon_Earth"&gt;泥濘投擲&lt;/LSTag&gt;以及&lt;LSTag Type="Spell" Tooltip="Target_Burrow_Myrmidon_Earth"&gt;掘穴&lt;/LSTag&gt;。</content>
+  <content contentuid="hcb478b8fgf66dg4f36gd80cge644a2c6f20d" version="1">荒野形態：火元素執政官</content>
+  <content contentuid="hcb1e95fagf1f9g557ag1eb0g5d22524cbaf5" version="1">變身為火元素執政官的形態。 </content>
+  <content contentuid="hcc00149dg6d43gf985g4089g8c14abb98b0f" version="1">火元素執政官形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。它可以施展&lt;LSTag Type="Spell" Tooltip="Target_FieryStrike_Myrmidon_Fire"&gt;熾熱打擊&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_BurningRage_Myrmidon_Fire"&gt;執政官的祭品&lt;/LSTag&gt;以及&lt;LSTag Type="Spell" Tooltip="Zone_RangedSwipe_Myrmidon_Fire"&gt;灰燼猛擊&lt;/LSTag&gt;。</content>
+  <content contentuid="he420cdb6ge3dcgb260g92efg5a69265c51fb" version="1">荒野形態：水元素執政官</content>
+  <content contentuid="h816b6beag5296g3dd4g7eddg19ee646c3c0e" version="1">變身為水元素執政官的形態。 </content>
+  <content contentuid="h5c7914a6ge857gb2f3g45e7ge65555ce84ff" version="1">水元素執政官形態初始擁有[1]，每兩個德魯伊等級獲得生命值提升。它可以施展&lt;LSTag Type="Spell" Tooltip="Target_FreezingStrike_Myrmidon_Water"&gt;寒冬打擊&lt;/LSTag&gt;、&lt;LSTag Type="Spell" Tooltip="Shout_HealingMist_Myrmidon_Water"&gt;治癒薄霧&lt;/LSTag&gt;以及&lt;LSTag Type="Spell" Tooltip="Projectile_ExplosiveIcicle_Myrmidon_Water"&gt;三稜冰柱&lt;/LSTag&gt;。</content>
+  <content contentuid="h29f20ce3gd767g86c1gc3c2g760b65fcfd18" version="1">水火交融</content>
+  <content contentuid="h580a3feegcb8bg82aeg3857gcf186f8f7fd0" version="1">非戰鬥時，恢復你一半的&lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;氣點數&lt;/LSTag&gt;（向下取整）。</content>
+  <content contentuid="h44b63a28g756agdfbbgfc4dg86cd173b242b" version="1">治癒光輝</content>
+  <content contentuid="h433a43c5geb79gc2bcgeee0g25c87495bb36" version="1">治療你和附近的所有盟友[1]。下一回合繼續恢復[1]。</content>
+  <content contentuid="h5363fdc8g0897gc260g2f37g6b547a165878" version="1">治癒光輝</content>
+  <content contentuid="h876b8f2bg3cfeg98cdg17e8g153e2047c22c" version="1">治療你和附近的所有盟友[1]。下一回合繼續恢復[1]。</content>
+  <content contentuid="h350db5b7g1d6cg4f47gd49bg4f32ff1147bd" version="1">雄馬面貌</content>
+  <content contentuid="hb5e9789cgc75egac27g90ddge2e19f812a00" version="1">獲得[1]。</content>
+  <content contentuid="hbc8099cfg9e4dgf21agcc75g70c7e3241362" version="1">撥擋飛彈</content>
+  <content contentuid="h54685cedg4fdag2b8fg620cg9f0ca0b1a4db" version="1">讓遠程武器攻擊造成的傷害減少1d10 + 你的敏捷&lt;LSTag Tooltip="AbilityModifier"&gt;調整值&lt;/LSTag&gt;+ 你的武僧等級。&lt;br&gt;&lt;br&gt;如果傷害減少到0，則可以使用1個氣點來施展&lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Missiles"&gt;撥擋飛彈&lt;/LSTag&gt;。</content>
+  <content contentuid="h617ce9d4g2d30g0566g19ffgd6efaeb41880" version="1">你只能減少攻擊帶來的傷害 —— 任何附加效果都無法消除。</content>
+  <content contentuid="hda8d0106g806bgc520g52a2gcbb3102793cd" version="1">戰鬥激勵</content>
+  <content contentuid="hfe2b15b9gb1dag1a00g7630g494aea829d5d" version="1">激勵一位盟友，使其下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;，&lt;LSTag Tooltip="AbilityCheck"&gt;屬性檢定&lt;/LSTag&gt;,&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;，武器傷害或&lt;LSTag Tooltip="ArmourClass"&gt;護甲等級&lt;/LSTag&gt;獲得 +[1]加值。</content>
+  <content contentuid="hc1d03aedg8b82g2574gd217ga46d5674fd69" version="1">熊伙伴</content>
+  <content contentuid="h3d818cabg5bebgf5e1g293cge552b855b11a" version="1">召喚一隻可以承受沉重打擊並用&lt;LSTag Type="Spell" Tooltip="Shout_GoadingRoar_Bear_Summon"&gt;挑釁咆哮&lt;/LSTag&gt;吸引敵人注意力的黑熊。</content>
+  <content contentuid="hf4b6adb1gf040g2571g92e2gb02464a24a9b" version="1">野豬伙伴</content>
+  <content contentuid="h111b5117gd807g4a90gb0eag6126f9fa4749" version="1">召喚一隻可以橫掃戰場並用&lt;LSTag Type="Spell" Tooltip="Rush_Rush_Boar_Summon"&gt;衝鋒&lt;/LSTag&gt;將敵人擊倒在地的野豬。</content>
+  <content contentuid="hc3a09f14g9d5fgb646gf3d1g5c513f13da4e" version="1">狼蛛伙伴</content>
+  <content contentuid="h1b3e0d60gea89g1a91g9aefgf87e28345492" version="1">召喚一隻狼蛛，可以使敵人中毒，並從遠處發射蛛網。</content>
+  <content contentuid="h93b3ed60g515bge9aeg4487g2f149b37404e" version="1">恐鴉伙伴</content>
+  <content contentuid="h0f6d48d2g4247g8c2bg4770g781c6c608f01" version="1">召喚一隻會飛而且能讓敵人&lt;LSTag Type="Spell" Tooltip="Target_RendVision_Raven_Summon"&gt;目盲&lt;/LSTag&gt;的恐鴉。</content>
+  <content contentuid="he512d1ceg4543g26b7g514cgd384ab2e086b" version="1">狼伙伴</content>
+  <content contentuid="h2a8ed2e2g1c08ga84bg404agd5d51e82e25c" version="1">召喚一隻可以造成毀滅性傷口並用&lt;LSTag Type="Spell" Tooltip="Target_Bite_Wolf_Summon"&gt;飛撲啃咬&lt;/LSTag&gt;將敵人擊倒的狼。</content>
+  <content contentuid="hb09e01c9g45fdga7f1g8943gea7f77f1c824" version="1">聖療</content>
+  <content contentuid="h7c6bbc9eg67c1gecc6g818eg7d66c235e224" version="1">使用你的神佑之觸去治療一個生物，或者治癒所有疾病和毒素。</content>
+  <content contentuid="hdf1ffaecg05eag6463g3fa8gb23bc6c619e9" version="1">聖療：次級治療</content>
+  <content contentuid="hb4f86625g02bdgfc99gbea7g7df2c6f6e667" version="1">為雙手灌注神聖之力，治療一個目標。</content>
+  <content contentuid="hf1df037dg72d1g7201gd037g6b20b962ba2e" version="1">聖療：高等治療</content>
+  <content contentuid="ha6930249gd804g453eg9d9egd71d019b88d0" version="1">詩人激勵</content>
+  <content contentuid="h034b7ad9g0008g4363gbb65ge224dd580e2a" version="1">激勵一位盟友，讓其進行下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻擊擲骰&lt;/LSTag&gt;、&lt;LSTag Tooltip="AbilityCheck"&gt;屬性檢定&lt;/LSTag&gt;或&lt;LSTag Tooltip="SavingThrow"&gt;豁免檢定&lt;/LSTag&gt;時獲得一個 +[1] 的加值。</content>
+  <content contentuid="hc397f7acgc2deg237fge5c1gf5cf4cdeac31" version="2">時間調諧</content>
+  <content contentuid="hb5fbbca9g0edfg3546gfaa9g853b4d9d44a6" version="1">你聚集每一條平行時間線自身的精氣，煉就靈肉交融之身。你獲得所有散打宗武僧的職業能力。</content>
+  <content contentuid="h75928ce5g28f2g5219g6896g264fad289e8c" version="1">全知之影</content>
+  <content contentuid="he3c00050gd761g5288g3f5dg4245a8a7c3c5" version="1">你的目光越過命運與時空的邊界，獲得了超越經驗和認知的啟示。</content>
+  <content contentuid="h32b2e878g80e0g4304ge7bbgc44c61f7de2e" version="1">自足</content>
+  <content contentuid="h1197cf2cg2c28g9a4ag1ff1g7f4e6438bd7f" version="1">你拒絕任何來自命運的加護，相信自己與生俱來的力量。</content>
+  <content contentuid="hc5a0b49cg7710gba79gf3b4g5e8abf35c0a7" version="1">力量加護</content>
+  <content contentuid="h96effd27g2495g382ag58d7gc40b62e08ccf" version="1">你的肌肉力量堪比凡人中最傑出的大力士。你的力量屬性值獲得5點提升。</content>
+  <content contentuid="h629c8780g32c8g2004gcde6g0bb1e6f79741" version="1">超凡力量加護</content>
+  <content contentuid="h3d8bbec0g6300g418cg498fg473d475c4f48" version="1">你的肌肉力量可與傳說中的巨人一較高下。你的力量屬性值獲得10點提升。</content>
+  <content contentuid="ha25c5c2fgba6age150g8cc8g5140e64ec725" version="1">極限力量加護</content>
+  <content contentuid="h90073fc8gf57ag2eeagbe6fg2c721afee583" version="1">你的肌肉力量可與神話中的巨獸正面抗衡。你的力量屬性值獲得15點提升。</content>
+  <content contentuid="h5fb22050gc41egadc1gf25cg1a1e22b3556c" version="1">自足</content>
+  <content contentuid="h2fc32a07gd38agc720g2bccg030a1f2b3fb6" version="1">你拒絕任何來自命運的加護，相信自己與生俱來的反應。</content>
+  <content contentuid="hed815b20gbef8gce6egc371g4261ebdd1beb" version="1">靈巧加護</content>
+  <content contentuid="h47160239g0b85g1914g4609gdb1a5ce57c77" version="1">你的反應宛如飛鳥一般迅捷。你的敏捷屬性值獲得5點提升。</content>
+  <content contentuid="ha4de3f4ag34beg04a5ge756g4887e1c8e69f" version="1">超凡靈巧加護</content>
+  <content contentuid="hd4f53b8cg9eb9g734egfee5g6f0d406c4c85" version="1">你的反應宛如疾風一般迅捷。你的敏捷屬性值獲得10點提升。</content>
+  <content contentuid="h053cf1eegcbe1gb0b0g72b4gbd5681108f47" version="1">極限靈巧加護</content>
+  <content contentuid="ha6427359ge757gefd9g0226g09f7f3082883" version="1">你的反應宛如閃電一般迅捷。你的敏捷屬性值獲得15點提升。</content>
+  <content contentuid="h796706c9gac27g2149g4090gb88e654c0059" version="1">自足</content>
+  <content contentuid="h5cb22155ge681g64bbg4311g0d56eac97f50" version="1">你拒絕任何來自命運的加護，相信自己與生俱來的體能。</content>
+  <content contentuid="hf946f2d5ge048g7c76g10b0gf3d4907e4f63" version="1">體格加護</content>
+  <content contentuid="h99d26e86ga354g8dd9g3b43g5159b3af7219" version="1">你的身體宛如深根一般堅韌。你的體質屬性值獲得5點提升。</content>
+  <content contentuid="he3890f81ge9b3g92c4gb47egdfc744a733a8" version="1">超凡體格加護</content>
+  <content contentuid="h4e1bc06eg3516gcee2g9a03ga99b5d3a2cc5" version="1">你的身體宛如磐石一般堅韌。你的體質屬性值獲得10點提升。</content>
+  <content contentuid="hcd78e9c7g0d75g3a3fgb670g290895a5f403" version="1">極限體格加護</content>
+  <content contentuid="ha3389f5egef26g4610gd1e2g9c4a00df8f63" version="1">你的身體宛如大地一般堅韌。你的體質屬性值獲得15點提升。</content>
+  <content contentuid="h79bb460cg019fg810bg0ea3g77169b33fa7d" version="1">自足</content>
+  <content contentuid="he94a8112g6922gcc90gb919g7c457c9739ea" version="1">你拒絕任何來自命運的加護，相信自己與生俱來的智力。</content>
+  <content contentuid="h0c9d6460ged97g1387ged43gb4e57ef6f7ba" version="1">思維加護</content>
+  <content contentuid="ha16f6862g66bege50agc769gdc9ec3b0fed6" version="1">你的思維足以理解任何高深的學問。你的智力屬性值獲得5點提升。</content>
+  <content contentuid="h845e58aag11c9g88eeg0e68g629543767910" version="1">超凡思維加護</content>
+  <content contentuid="h1e5106d3ga96bg4be5gedd8g3109a2cd2d0b" version="1">你的思維足以理解任何玄妙的秘法。你的智力屬性值獲得10點提升。</content>
+  <content contentuid="hda19c9cdg9e44ga5d3g6fd7gd97adfc79323" version="1">極限思維加護</content>
+  <content contentuid="h97608fbbg4125gc592g704dga70a8f7656c8" version="1">你的思維足以理解宇宙的運行法則。你的智力屬性值獲得15點提升。</content>
+  <content contentuid="hc95a09a2g4083g0457g520cg37d1a3017b34" version="1">自足</content>
+  <content contentuid="h440d9854gc22dg8615g235fgf2514fe51650" version="1">你拒絕任何來自命運的加護，相信自己與生俱來的悟性。</content>
+  <content contentuid="h37b5a537gcbe4gfcf6gb28eg5b78d1260b85" version="1">洞察加護</content>
+  <content contentuid="he2ccce3fg45ccge4fdg8fe7gb583c91bd810" version="1">你的靈魂可以洞察旁人心緒的微妙變化。你的感知屬性值獲得5點提升。</content>
+  <content contentuid="h87e620f6gee20g0044ge9f8gfddbb2ede2ef" version="1">超凡洞察加護</content>
+  <content contentuid="h8c2d80efg1068g8e10g8f60g016f4258fa9e" version="1">你的靈魂可以洞察分布各處的先天之氣。你的感知屬性值獲得10點提升。</content>
+  <content contentuid="h312a9b5ag949dg3900g9412g73b4d2729055" version="1">極限洞察加護</content>
+  <content contentuid="h77b3f7f3g4c4ag7827g61b1g8a44331db5ef" version="1">你的靈魂可以洞察推動宇宙的命運之輪。你的感知屬性值獲得15點提升。</content>
+  <content contentuid="h76434266g7085g3a51ga8a6gc78ac8caca03" version="1">自足</content>
+  <content contentuid="h81b0b088g4d63g0c88gf165gbcc4325d2e7b" version="1">你拒絕任何來自命運的加護，相信自己與生俱來的人格。</content>
+  <content contentuid="h405c95b7gc559g53d6g153egbe44196d195a" version="1">榮耀加護</content>
+  <content contentuid="he0073f54g9b84gba4bg65a1g80c5ad26b2a8" version="1">你的靈光足以讓大部分凡物心悅誠服。你的魅力屬性值獲得5點提升。</content>
+  <content contentuid="h0b29faadg449bg270dg6fdfg220bc286fcca" version="1">超凡榮耀加護</content>
+  <content contentuid="hc4b7e653g4992gf668gb7aeg44582c6b8543" version="1">你的靈光足以讓神祇對你另眼相看。你的魅力屬性值獲得10點提升。</content>
+  <content contentuid="h9798512ag61a6gd352ga1d8g99a3fcccc9ce" version="1">極限榮耀加護</content>
+  <content contentuid="h932f75ecgb32dg7c76ge014g7596e8bda293" version="1">你的靈光足以影響無意識的物質與時空。你的魅力屬性值獲得15點提升。</content>
+  <content contentuid="h6a100e77g9ab3g6d39g4881gff329d01b371" version="2">力量加護</content>
+  <content contentuid="hd82561d2gf0a9gbbf2g8377gf10c8c82803d" version="2">靈巧加護</content>
+  <content contentuid="h88cc96edgb5acg7830g56efg09a3f5267a20" version="2">體格加護</content>
+  <content contentuid="hd81d81ebgadffg9759g1511gbd1c84980c1c" version="2">思維加護</content>
+  <content contentuid="h480e5788g3c5dgb078g49d1ga769a04b5c3a" version="2">洞察加護</content>
+  <content contentuid="h3c2c0f7agb3e0g363ag23bfgdd26c22aa8c0" version="2">榮耀加護</content>
+  <content contentuid="h6bb3f391gc933g3cfdg6adag9c5fb79e7fba" version="1">自足</content>
+  <content contentuid="h84bf45f2ga0afga98dgfb07g350bb1e246e6" version="1">自足</content>
+  <content contentuid="h22f22da6gb9cbg1a8bg9e8eg111e96cde310" version="1">自足</content>
+  <content contentuid="hc48f22bfgf214gbacbg7babg6cf20889ef5c" version="1">自足</content>
+  <content contentuid="hcd4a82e5g1376ga6eegeaecg818d506c941b" version="1">Full Caster II</content>
+  <content contentuid="h7d6b54b3gc4bcga648g817dgfea39522e58b" version="1">Half Caster II</content>
+  <content contentuid="heee358d1g3cb9gb381g03e5g1cafa0ecee2f" version="1">Third Caster II</content>
+  <content contentuid="h968c605eg147ag240eg60b2gac449c356c7f" version="1">Warlock Caster II</content>
+  <content contentuid="hadb1e8c8gbfd6g8726g7629g76e436c9c512" version="1">超凡力量加護</content>
+  <content contentuid="h6ddf0827g9d9ag0fc8gd82bg9235ad0e13cf" version="1">超凡靈巧加護</content>
+  <content contentuid="h8a3b6b73gf3c7gf5a3gc31cg0102e3b3de08" version="1">超凡體格加護</content>
+  <content contentuid="h0945f6c7gfb99gb185gd13dg04b657b0a603" version="1">超凡思維加護</content>
+  <content contentuid="h33c552afg3ef0g47a3g4c0bgc901a5b7a6a1" version="1">超凡洞察加護</content>
+  <content contentuid="h2f947f25gb206gb576g6cc3gea32181bd07d" version="1">超凡榮耀加護</content>
+  <content contentuid="h3f38a52bg83ffg20b5geeffg45a477bd261b" version="1">極限力量加護</content>
+  <content contentuid="hdc015bbeg8ca8g6bb3gd763gaa278dde5262" version="1">極限靈巧加護</content>
+  <content contentuid="hdcfc4115g220dg46fcga5b6g5cdf097a265f" version="1">極限體格加護</content>
+  <content contentuid="h44cc04bbg0f0bg4a19g06ebg3d4853b5aad8" version="1">極限思維加護</content>
+  <content contentuid="hf090fdf5ga289ge87fg8093g7b1a85ee13dc" version="1">極限洞察加護</content>
+  <content contentuid="h8555f3fegb175g4dfeg58b2g1d107578cd45" version="1">極限榮耀加護</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3752" version="1"運動技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3753" version="1">你獲得運動技能擅長。 </content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3754" version="1">運動技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3755" version="1">你獲得運動技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3756" version="1">體操技能擅長</content> 
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3757" version="1">你獲得體操技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3758" version="1">體操技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3759" version="1">你獲得體操技能精通。 </content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3760" version="1">巧手技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3761" version="1">你獲得巧手技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3762" version="1">巧手技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3763" version="1">你獲得巧手技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3764" version="1">隱匿技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3765" version="1">你獲得隱匿技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3766" version="1">隱匿技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3767" version="1">你獲得隱匿技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3768" version="1">奧秘技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3769" version="1">你獲得奧秘技能擅長。 </content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3770" version="1">奧秘技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3771" version="1">你獲得奧秘技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3772" version="1">歷史技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3773" version="1">你獲得歷史技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3774" version="1">歷史技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3775" version="1">你獲得歷史技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3776" version="1">調查技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3777" version="1">你獲得調查技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3778" version="1">調查技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3779" version="1">你獲得調查技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3780" version="1">自然技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3781" version="1">你獲得自然技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3782" version="1">自然技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3783" version="1">你獲得體操技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3784" version="1">宗教技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3785" version="1">你獲得宗教技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3786" version="1">宗教技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3787" version="1">你獲得宗教技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3788" version="1">馴獸技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3789" version="1">你獲得馴獸技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3790" version="1">馴獸技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3791" version="1">你獲得馴獸技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3792" version="1">洞悉技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3793" version="1">你獲得洞悉技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3794" version="1">洞悉技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3795" version="1">你獲得洞悉技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3796" version="1">醫藥技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3797" version="1">你獲得醫藥技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3798" version="1">醫藥技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3799" version="1">你獲得醫藥技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3800" version="1">察覺技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3801" version="1">你獲得察覺技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3802" version="1">察覺技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3803" version="1">你獲得察覺技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3804" version="1">生存技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3805" version="1">你獲得生存技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3806" version="1">生存技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3807" version="1">你獲得生存技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3808" version="1">欺瞞技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3809" version="1">你獲得欺瞞技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3810" version="1">欺瞞技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3811" version="1">你獲得欺瞞技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3812" version="1">威嚇技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3813" version="1">你獲得威嚇技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3814" version="1">威嚇技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3815" version="1">你獲得威嚇技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3816" version="1">表演技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3817" version="1">你獲得表演技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3818" version="1">表演技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3819" version="1">你獲得表演技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3820" version="1">遊說技能擅長</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3821" version="1">你獲得遊說技能擅長。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3822" version="1">遊說技能精通</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3823" version="1">你獲得遊說技能精通。</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3825" version="1">拖延症</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3826" version="1">訓練技能也太累了！我們為什麼不再來玩一輪骰子呢？</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3827" version="1">鬆弛感</content>
+  <content contentuid="hdftre6d4gcefbg4092dsv15d5s8e6f2g3828" version="1">偏要追求極致幹什麼？差不多就行了！</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7422" version="1">巨人之道</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7423" version="1">你的野性直覺以巨人可怕的力量所展現。你獲得所有相當於你角色等級的巨人道途野蠻人職業能力。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7424" version="1">Giant I</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7425" version="1">Giant V</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7426" version="1">Giant VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7427" version="1">Giant X</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7428" version="1">迷惑</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7429" version="1">你傾心於妖精們迷人的詩篇與傳說。你獲得所有相當於你角色等級的迷惑學院吟遊詩人職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7430" version="1">Glamour III</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7431" version="1">Glamour VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7432" version="1">Glamour X</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7433" version="1">死亡</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7434" version="1">你的力量來自於神聖的凡性源泉。你獲得所有相當於你角色等級的死亡領域牧師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7435" version="1">Death I</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7436" version="1">Death II</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7437" version="1">Death VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7438" version="1">Death VIII</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7439" version="1">Domain Spells: Death</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7440" version="1">星辰</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7441" version="1">你與指引命運的閃耀群星建立了聯繫。你獲得所有相當於你角色等級的星辰德魯伊職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7442" version="1">Stars II</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7443" version="1">Stars VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7444" version="1">Stars X</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7445" version="1">奧法箭術</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7446" version="1">你會在戰鬥中通過魔法與箭術的奇妙組合取得戰場優勢。你獲得所有相當於你角色等級的魔射手戰士職業能力。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7447" version="1">Archery III</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7448" version="1">Archery VII</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7449" version="1">杯中明鏡</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7450" version="1">你在杯盞甘醴間明心見性。你獲得所有相當於你角色等級的醉拳武僧職業能力。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7451" version="1">Drunken Flurry</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7452" version="1">Drunken III</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7453" version="1">Drunken IV</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7454" version="1">Drunken VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7455" version="1">Drunken IX</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7456" version="1">Drunken XI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7457" version="1">捍衛文明</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7458" version="1">你致力於維持秩序的神聖事業。你獲得所有相當於你角色等級的王冠之誓聖武士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7459" version="1">Crown I</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7460" version="1">Crown III</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7461" version="1">Crown VII</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7462" version="1">集群呼喚</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7463" version="1">你在捕獵時更偏向於依賴一個由自然靈體所組成的集群。你獲得所有相當於你角色等級的集群牧者遊俠職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7464" version="1">Swarm III</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7465" version="1">Swarm VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7466" version="1">Swarm XI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7467" version="1">厭蟲症</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7468" version="1">你對“一群友善的昆蟲助手”這個概念抱有深深的牴觸。畢竟你的腦袋裡已經有一隻奪心魔寄生蟲了。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7469" version="1">刀劍技倆</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7470" version="1">你利用眩目的劍花和魅力迷惑你的目標。你獲得所有相當於你角色等級的詭術遊蕩者職業能力。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7471" version="1">Swashbuckler III</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7472" version="1">Swashbuckler IV</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7473" version="1">Swashbuckler IX</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7474" version="1">陰影魔法</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7475" version="1">你的血脈連結著墮影冥界的幽深黑暗。你獲得所有相當於你角色等級的陰影術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7476" version="1">咒劍</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7477" version="1">你與一個來自墮影冥界的智慧武器建立了契約。你獲得所有相當於你角色等級的咒劍契術士職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7478" version="1">Hexblade I</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7479" version="1">Hexblade VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7480" version="1">Hexblade X</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7481" version="1">劍歌</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7482" version="1">你對精靈傳統中的劍詠魔法有較高的學術興趣。你獲得所有相當於你角色等級的劍詠法師職業能力，但不包括每日法術位與已知法術。</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7483" version="1">Bladesinging II</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7484" version="1">Bladesinging VI</content>
+  <content contentuid="h060dac8eg4da3g48b1ga7a3g981a0eeb7485" version="1">Bladesinging X</content>
+</contentList>

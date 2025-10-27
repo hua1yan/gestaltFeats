@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="TemporalConvergence"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9d58bef5-e9fd-4ddb-8f44-7b7d67c8ead2,3);SelectPassives(f767cb70-483d-47d0-8958-d70bc154b033,3);SelectPassives(d0bcab30-791a-43fe-9af7-1ab7da51a612,3);SelectPassives(5eb3a4fb-c8df-4e04-bcd0-cb41371abdcf,1);SelectPassives(f9a54617-40d2-488d-aae1-8027c2f86342,1);SelectPassives(f79c3b42-d723-4b09-a6e4-df6c40b32dca,2);SelectPassives(06e48e25-9066-4a36-b929-835b330c2afb,1);SelectPassives(7e03b686-c99a-4a42-8181-ff0d3f1ced45,1);SelectPassives(4d3c4879-cc70-4826-8626-4158a5d08bbe,1);SelectPassives(81ae4c5d-8555-4c65-af6d-9c595029e8a4,1);SelectPassives(7567f47d-7891-4965-af38-878ed4e47e1c,1);SelectPassives(5d6431bd-1042-47fc-a252-25bb3236750c,7);SelectPassives(c86c8a8a-d389-4cca-9b64-f0523f5b14cc,1);SelectPassives(d7ce6eb8-4e9c-4a4f-8499-208a3f5491e2,1);SelectPassives(c82aadb3-0172-4998-a9a1-a0c12c24f1d1,1);SelectPassives(839e0c16-5bd3-4664-b7a5-3fd3086f7a09,3);SelectPassives(63201175-e255-4abd-8b99-d75fc46e3e5b,3);SelectPassives(a9468807-e5f1-4454-8c0d-4a2464bb9781,1);SelectPassives(3e7a8954-4e83-4380-a5e9-b586f8a2faca,1);SelectPassives(3e7a8954-4e83-4380-a5e9-b586f8a2fabb,1);SelectPassives(99f34290-0023-42a9-8389-ca7426ae5e91,1);SelectPassives(1b97d7a2-fcd9-4592-a250-e9370b2b0ea6,1);SelectPassives(2873f647-96aa-4447-9da7-b90dea1e3250,4);SelectPassives(afe0e2e7-d908-441a-9071-942290f94639,1);SelectPassives(385029bf-d1fc-459b-a258-b27dfdf661b7,1);SelectPassives(c27df333-5a02-4ad3-b7e1-587eec1a9c49,6);SelectPassives(9b04b26c-23b7-4c58-9a46-ff2e687f2224,1);SelectPassives(d51bc582-230a-4fca-828b-a94ce2d1f088,1);SelectPassives(c4fc0cb9-87d0-4dd0-ba6b-47584ca9abb4,1);SelectPassives(66f81300-7ae2-419d-9993-f078920dcb51,1);SelectPassives(3a91c6bc-5846-4532-b9d0-f56e92423ffe,1);SelectPassives(5e056564-a10a-47d3-9873-49e0186567ef,1);SelectPassives(eecc177f-3fcc-40de-8ed8-a319ab1d48ac,1);SelectPassives(956dfb7c-ef0d-4985-986e-3da6ccb7433e,1);SelectPassives(4e461750-1ea7-4c73-ab44-1a95ceed6ea9,1);SelectPassives(3ac2ae07-c427-4500-b407-7a55b91890c3,18);SelectPassives(3ac2ae07-c427-4500-b407-7a55b91890c4,18)"/>
+                    <attribute id="UUID" type="guid" value="6d18b42e-57cf-42d4-8a3e-0735ec6f14ca"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
